@@ -1,0 +1,43 @@
+<!doctype html>
+<!--
+Benjamin Swartz
+CIS 114 OL
+calculator.html
+Chapters 1-3
+Assignment 1
+1-31-2013
+-->
+<html lang="en">
+<head>
+	<title>Benjamin Swartz - Calculator</title>
+	<link rel="stylesheet" href="css/styles.css">
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+</head>
+<body>
+	<form action="" method="post" id="theForm">
+	<fieldset>
+	<div><p>Calculate the future value!</p></div>
+	<div>
+		<label for="principal">Principal</label><input type="text" name="principal" id="principal" required>
+	</div>
+	<div>
+		<label for="interest_rate">Interest Rate</label><input type="text" name="interest_rate" id="interest_rate" required>
+	</div>
+	<div>
+		<label for="num_of_years">Number of Years</label><input type="text" name="num_of_years" id="num_of_years" required>
+	</div>
+	<div>
+		<label for"future_value">Future Value</label><input type="text" name="future_value" id="future_value">
+	</div>
+	<div>
+		<div><input type="submit" value="Calculate" id="submit"></div>
+	</div>
+	</fieldset>
+</form>
+<script src="js/calculator.js"></script>
+</body>
+</html>
+
+	

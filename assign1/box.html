@@ -1,0 +1,42 @@
+<!doctype html>
+<!--
+Benjamin Swartz
+CIS 114 OL
+calculator.html
+Chapters 1-3
+Assignment 1
+1-31-2013
+-->
+<html lang="en">
+<head>
+	<title>Benjamin Swartz - box</title>
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+	<form action="" method="post" id="theForm">
+		<fieldset>
+			<p>Use this form to calculate the volume of a box.</p>
+			<div>
+				<label for="length">Length</label><input type="text" name="length" id="length" required>
+			</div>
+			<div>
+				<label for="width">Width</label><input type="text" name="width" id="width" required>
+			</div>
+			<div>
+				<label for="height">Height</label><input type="text" name="height" id="height" required>
+			</div>
+			<div><label for="volume">Volume</label><input type="text" name="volume" id="volume">
+			</div>
+			<div>
+				<div><input type="submit" value="Calculate" id="submit">
+			</div>
+		</fieldset>
+	</form>
+	<script src="js/box.js"></script>
+</body>
+</html>
+
+

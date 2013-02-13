@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Ben Swartz | zodiac.html</title>
+    <!--[if lt IE 9]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    
+    <!-- 
+    Name: Ben Swartz
+    Course: CIS114 
+    File Name: zodiac.html
+    Chapter: 5 
+    Assignment: 2 
+    Date: 2-8-13
+    !-->
+    
+    <link rel="stylesheet" href="css/form.css">
+</head>
+<body>
+    <form action="" method="post" id="theForm">
+        <fieldset><legend>Figure Out Your Zodiac Sign</legend>
+            <div><label>Zodiac Sign:</label><div id="zodiacimg" name="zodiacimg"><img id="zodiacimgtag" class="zodiac-sign" src="images/zodiac.jpg"></div></div>            
+            <p id="signptag">Fill this form to figure out your zodiac sign. 
+			<div><label for="month">Month</label>
+			<select name="month" id="month">
+			    <option value="01">January</option>
+			    <option value="02">February</option>
+			    <option value="03">March</option>
+			    <option value="04">April</option>
+			    <option value="05">May</option>
+			    <option value="06">June</option>
+			    <option value="07">July</option>
+			    <option value="08">August</option>
+			    <option value="09">September</option>
+			    <option value="10">October</option>
+			    <option value="11">November</option>
+			    <option value="12">December</option>
+			</select></div>
+			<div><label for="birthyear">Year</label><input type="text" name="birthyear" id="birthyear" placeholder="1990"></div>
+
+			<input type="submit" value="Calculate" id="submit">
+        </fieldset>
+    </form>
+    <script src="js/zodiac.js"></script>
+</body>
+</html>
