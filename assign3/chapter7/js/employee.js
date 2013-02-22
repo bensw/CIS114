@@ -11,8 +11,9 @@
 // Implement $() in this file
 function $(id) {
     'use strict';
+    console.log('id is : ' + id)
     if (typeof id != 'undefined') {
-        return document.getElementById;
+        return document.getElementById(id);
     }
 }
 
@@ -53,6 +54,7 @@ function process() {
 
 // Initial setup:
 function init() {
+    console.log("initializing...")
     'use strict';
     $('theForm').onsubmit = process;
 } // End of init() function.
