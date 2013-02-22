@@ -15,7 +15,7 @@ function updateDuration() {
 
     // Create the message and divide by 1000 to get seconds:
     var message = 'It has been ' + now.getTime()/1000;
-    message += ' seconds since the epoch. (mouseover to update)';
+    message += ' seconds since the epoch.';
 
     // Update the page:
     U.setText('output', message);
