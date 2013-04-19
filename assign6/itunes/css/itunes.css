@@ -1,0 +1,30 @@
+/*Benjamin Swartz
+CIS 114 OL
+itunes.css
+Assignment 6
+4-19-2013*/
+
+html { background-color:#eeeeee; }
+body {
+      background-color:red;
+      font-family:Helvetica,Tahoma,Arial,sans-serif;
+      font-size:12px;
+	  margin-left:15%; 
+	  margin-right:15%;
+	  border:3px groove #006600; 
+	  padding:15px
+	 }
+body:hover {
+  background-color:green;
+}
+h1   {
+      text-align:left;
+      font-size:1.5em;
+      font-weight:bold
+     }
+h1:hover {
+  font-size:3em;
+}
+img:hover {
+
+}

@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<!-- Benjamin Swartz
+CIS 114 OL
+text.xml
+Chapter 11
+Assignment 6
+4-19-2013 -->
 <book>
 	<chapter id="1">Getting Started</chapter>
 	<chapter id="2">JavaScript in Action</chapter>

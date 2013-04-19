@@ -1,3 +1,9 @@
+/*Benjamin Swartz
+CIS 114 OL
+contact.js
+Chapter 11
+Assignment 6
+4-19-2013*/
 // # contact.js
 // This script performs an Ajax request for a contact form.
 

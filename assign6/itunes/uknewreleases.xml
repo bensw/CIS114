@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Benjamin Swartz
+CIS 114 OL
+uknewreleases.xml
+Assignment 6
+4-19-2013 -->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=130</link>
+    <atom:link href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143444/limit=10/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases</description>
+		<language>en</language>
+		<copyright>Copyright 2008 iTunes S.à r.l.
+
+		</copyright>
+		<lastBuildDate>Sun, 07 Nov 2010 12:01:51 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2010-11-07T12:01:51-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://ax.phobos.apple.com.edgesuite.net/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Na Na Na (Na Na Na Na Na Na Na Na Na) - Single - My Chemical Romance</title>
+    <link>http://itunes.apple.com/album/na-na-na-na-na-na-na-na-na/id400148271?uo=1&amp;v0=9988</link>
+    <description>Na Na Na (Na Na Na Na Na Na Na Na Na) - Single by My Chemical Romance</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/na-na-na-na-na-na-na-na-na/id400148271?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/013/Music/4d/68/1b/mzi.hqccjsig.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/na-na-na-na-na-na-na-na-na/id400148271?uo=1&v0=9988">Na Na Na (Na Na Na Na Na Na Na Na Na) - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/my-chemical-romance/id14748659?uo=1&v0=9988">My Chemical Romance</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						05 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9988">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£1.98</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9988">Alternative</category>
+    <itms:artist>My Chemical Romance</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/my-chemical-romance/id14748659?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Na Na Na (Na Na Na Na Na Na Na Na Na) - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/na-na-na-na-na-na-na-na-na/id400148271?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£1.98</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/013/Music/4d/68/1b/mzi.hqccjsig.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/013/Music/4d/68/1b/mzi.hqccjsig.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/013/Music/4d/68/1b/mzi.hqccjsig.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Reprise Records for the U.S. and WEA International Inc. for the world outside the U.S.</itms:rights>
+    
+        <itms:releasedate>05 November 2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Echo - Single - Madonna</title>
+    <link>http://itunes.apple.com/album/echo-single/id402387596?uo=1&amp;v0=9988</link>
+    <description>Echo - Single by Madonna</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/echo-single/id402387596?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r30/Music/54/ac/45/mzi.ahmexsgz.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/echo-single/id402387596?uo=1&v0=9988">Echo - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/madonna/id20044?uo=1&v0=9988">Madonna</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						04 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£0.79</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Best World Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Madonna</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/madonna/id20044?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Echo - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/echo-single/id402387596?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£0.79</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r30/Music/54/ac/45/mzi.ahmexsgz.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r30/Music/54/ac/45/mzi.ahmexsgz.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r30/Music/54/ac/45/mzi.ahmexsgz.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Best World Records</itms:rights>
+    
+        <itms:releasedate>04 November 2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>No Love - Single - Lil Wayne &amp; Eminem</title>
+    <link>http://itunes.apple.com/album/no-love-single/id397105663?uo=1&amp;v0=9988</link>
+    <description>No Love - Single by Lil Wayne &amp; Eminem</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/no-love-single/id397105663?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r2000/014/Music/a1/d6/62/mzi.dcjofxwu.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/no-love-single/id397105663?uo=1&v0=9988">No Love - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/eminem/id111051?uo=1&v0=9988">Lil Wayne &amp; Eminem</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						04 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9988">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£1.49</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Aftermath Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9988">Hip-Hop/Rap</category>
+    <itms:artist>Lil Wayne &amp; Eminem</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/eminem/id111051?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>No Love - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/no-love-single/id397105663?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£1.49</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r2000/014/Music/a1/d6/62/mzi.dcjofxwu.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r2000/014/Music/a1/d6/62/mzi.dcjofxwu.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r2000/014/Music/a1/d6/62/mzi.dcjofxwu.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Aftermath Records</itms:rights>
+    
+        <itms:releasedate>04 November 2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Firework - Single - Katy Perry</title>
+    <link>http://itunes.apple.com/album/firework-single/id401336990?uo=1&amp;v0=9988</link>
+    <description>Firework - Single by Katy Perry</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/firework-single/id401336990?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/018/Music/2e/95/fc/mzi.kteypmwu.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/firework-single/id401336990?uo=1&v0=9988">Firework - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/katy-perry/id64387566?uo=1&v0=9988">Katy Perry</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						02 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£1.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						  2010 Capitol Records, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws.  Manufactured by Capitol Records, LLC, 1750 North Vine Street, Hollywood, CA 90028.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9988">Pop</category>
+    <itms:artist>Katy Perry</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/katy-perry/id64387566?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Firework - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/firework-single/id401336990?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£1.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/018/Music/2e/95/fc/mzi.kteypmwu.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/018/Music/2e/95/fc/mzi.kteypmwu.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/018/Music/2e/95/fc/mzi.kteypmwu.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>  2010 Capitol Records, LLC. All rights reserved. Unauthorized reproduction is a violation of applicable laws.  Manufactured by Capitol Records, LLC, 1750 North Vine Street, Hollywood, CA 90028.</itms:rights>
+    
+        <itms:releasedate>02 November 2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Christmas Album - Elvis Presley</title>
+    <link>http://itunes.apple.com/album/the-christmas-album/id389768130?uo=1&amp;v0=9988</link>
+    <description>The Christmas Album by Elvis Presley</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/the-christmas-album/id389768130?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/015/Music/5b/71/50/mzi.njkzanwz.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/the-christmas-album/id389768130?uo=1&v0=9988">The Christmas Album</a></B><br>
+						<a href="http://itunes.apple.com/artist/elvis-presley/id197443?uo=1&v0=9988">Elvis Presley</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						02 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-holiday/id8?uo=1&v0=9988">Holiday</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£5.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Power Station GmbH</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-holiday/id8?uo=1&amp;v0=9988">Holiday</category>
+    <itms:artist>Elvis Presley</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/elvis-presley/id197443?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Christmas Album</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/the-christmas-album/id389768130?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£5.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/015/Music/5b/71/50/mzi.njkzanwz.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/015/Music/5b/71/50/mzi.njkzanwz.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/015/Music/5b/71/50/mzi.njkzanwz.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Power Station GmbH</itms:rights>
+    
+        <itms:releasedate>02 November 2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Apprenticeship of Mr. Smith - The Birth of Ne-Yo - Ne-Yo</title>
+    <link>http://itunes.apple.com/album/the-apprenticeship-mr-smith/id399217317?uo=1&amp;v0=9988</link>
+    <description>The Apprenticeship of Mr. Smith - The Birth of Ne-Yo by Ne-Yo</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/the-apprenticeship-mr-smith/id399217317?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r30/Music/01/6b/9c/mzi.amtlozjm.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/the-apprenticeship-mr-smith/id399217317?uo=1&v0=9988">The Apprenticeship of Mr. Smith - The Birth of Ne-Yo</a></B><br>
+						<a href="http://itunes.apple.com/artist/ne-yo/id78257321?uo=1&v0=9988">Ne-Yo</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						02 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&v0=9988">R&amp;B/Soul</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£7.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Vtribe Media &amp; Entertainment, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-r-b-soul/id15?uo=1&amp;v0=9988">R&amp;B/Soul</category>
+    <itms:artist>Ne-Yo</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/ne-yo/id78257321?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Apprenticeship of Mr. Smith - The Birth of Ne-Yo</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/the-apprenticeship-mr-smith/id399217317?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£7.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r30/Music/01/6b/9c/mzi.amtlozjm.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r30/Music/01/6b/9c/mzi.amtlozjm.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r30/Music/01/6b/9c/mzi.amtlozjm.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Vtribe Media &amp; Entertainment, Inc.</itms:rights>
+    
+        <itms:releasedate>02 November 2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Rock Dust Light Star - Jamiroquai</title>
+    <link>http://itunes.apple.com/album/rock-dust-light-star/id397004960?uo=1&amp;v0=9988</link>
+    <description>Rock Dust Light Star by Jamiroquai</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/rock-dust-light-star/id397004960?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r30/Music/99/f2/8a/mzi.rhuittay.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/rock-dust-light-star/id397004960?uo=1&v0=9988">Rock Dust Light Star</a></B><br>
+						<a href="http://itunes.apple.com/artist/jamiroquai/id475902?uo=1&v0=9988">Jamiroquai</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						01 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£7.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Mercury Records Limited</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9988">Pop</category>
+    <itms:artist>Jamiroquai</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/jamiroquai/id475902?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Rock Dust Light Star</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/rock-dust-light-star/id397004960?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£7.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r30/Music/99/f2/8a/mzi.rhuittay.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r30/Music/99/f2/8a/mzi.rhuittay.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r30/Music/99/f2/8a/mzi.rhuittay.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Mercury Records Limited</itms:rights>
+    
+        <itms:releasedate>01 November 2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Bud, Sweat &amp; Beers - Devlin</title>
+    <link>http://itunes.apple.com/album/bud-sweat-beers/id397348082?uo=1&amp;v0=9988</link>
+    <description>Bud, Sweat &amp; Beers by Devlin</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/bud-sweat-beers/id397348082?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r30/Music/7b/16/43/mzi.hkxcfnac.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/bud-sweat-beers/id397348082?uo=1&v0=9988">Bud, Sweat &amp; Beers</a></B><br>
+						<a href="http://itunes.apple.com/artist/devlin/id257189095?uo=1&v0=9988">Devlin</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						01 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						15</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9988">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£6.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Universal Island Records Ltd. A Universal Music Company.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9988">Hip-Hop/Rap</category>
+    <itms:artist>Devlin</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/devlin/id257189095?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Bud, Sweat &amp; Beers</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/bud-sweat-beers/id397348082?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£6.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r30/Music/7b/16/43/mzi.hkxcfnac.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r30/Music/7b/16/43/mzi.hkxcfnac.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r30/Music/7b/16/43/mzi.hkxcfnac.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Universal Island Records Ltd. A Universal Music Company.</itms:rights>
+    
+        <itms:releasedate>01 November 2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Messy Little Raindrops - Cheryl Cole</title>
+    <link>http://itunes.apple.com/album/messy-little-raindrops/id398973708?uo=1&amp;v0=9988</link>
+    <description>Messy Little Raindrops by Cheryl Cole</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/messy-little-raindrops/id398973708?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r2000/000/Music/2b/41/7e/mzi.zmvpzcdq.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/messy-little-raindrops/id398973708?uo=1&v0=9988">Messy Little Raindrops</a></B><br>
+						<a href="http://itunes.apple.com/artist/cheryl-cole/id277197836?uo=1&v0=9988">Cheryl Cole</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						01 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£7.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Polydor Ltd. (UK)</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9988">Pop</category>
+    <itms:artist>Cheryl Cole</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/cheryl-cole/id277197836?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Messy Little Raindrops</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/messy-little-raindrops/id398973708?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£7.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r2000/000/Music/2b/41/7e/mzi.zmvpzcdq.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r2000/000/Music/2b/41/7e/mzi.zmvpzcdq.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r2000/000/Music/2b/41/7e/mzi.zmvpzcdq.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Polydor Ltd. (UK)</itms:rights>
+    
+        <itms:releasedate>01 November 2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Rock Dust Light Star (Deluxe) - Jamiroquai</title>
+    <link>http://itunes.apple.com/album/rock-dust-light-star-deluxe/id397980757?uo=1&amp;v0=9988</link>
+    <description>Rock Dust Light Star (Deluxe) by Jamiroquai</description>
+    <pubDate>Sun, 07 Nov 2010 12:01:51 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/rock-dust-light-star-deluxe/id397980757?uo=1&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r2000/007/Music/99/f2/8a/mzi.igacazax.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/rock-dust-light-star-deluxe/id397980757?uo=1&v0=9988">Rock Dust Light Star (Deluxe)</a></B><br>
+						<a href="http://itunes.apple.com/artist/jamiroquai/id475902?uo=1&v0=9988">Jamiroquai</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						01 November 2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						21</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-pop/id14?uo=1&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Album Price:</B>
+						£10.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Jamiroquai Limited, under exclusive licence to Mercury Records Limited</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-pop/id14?uo=1&amp;v0=9988">Pop</category>
+    <itms:artist>Jamiroquai</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/jamiroquai/id475902?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Rock Dust Light Star (Deluxe)</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/rock-dust-light-star-deluxe/id397980757?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>£10.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r2000/007/Music/99/f2/8a/mzi.igacazax.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r2000/007/Music/99/f2/8a/mzi.igacazax.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r2000/007/Music/99/f2/8a/mzi.igacazax.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Jamiroquai Limited, under exclusive licence to Mercury Records Limited</itms:rights>
+    
+        <itms:releasedate>01 November 2010</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

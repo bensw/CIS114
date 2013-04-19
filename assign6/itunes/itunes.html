@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+<!-- Benjamin Swartz
+CIS 114 OL
+itunes.html
+Assignment 6
+4-19-2013 -->
+<meta charset="utf-8">
+<title>Ben Swartz | iTunes Ajax Demo CIS 114 Your Name</title>
+<link rel="stylesheet" href="css/itunes.css">
+<script src="js/ajax.js"></script>
+<script src="js/itunes.js"></script>
+</head>
+<body>
+<h1>iTunes XML and Ajax Demo</h1>
+<hr> 
+
+<form>
+<p>Category:<br />
+<select id="choice" name="choice">
+    <option value="">Choose One</option>
+    <option value="mexico.xml">Top 10 Mexican Releases</option>
+    <option value="nlpopreleases.xml">Top 10 Dutch Pop New Releases</option>
+    <option value="japanpopreleases.xml">Top 10 J-Pop New Releases</option>
+    <option value="uknewreleases.xml">Top 10 UK New Releases</option>
+    <option value="usacomedy.xml">Top 10 US Comedy Albums</option>
+	<option value="usspokenword.xml">Top 10 US Spoken Word New Releases</option>
+    <option value="usclassical.xml">Top 10 US Classical New Releases</option>
+    <option value="uschristian.xml">Top 10 US Christian New Releases</option>
+    <option value="usblues.xml">Top 10 US Blues New Releases</option>
+    <option value="uschildren.xml">Top 10 US Children New Releases</option>
+    <option value="usaworld.xml">Top 10 US World Music Albums</option>
+</select>
+</p>
+<p>Items:<br>
+<select size="10" id="topics" name="topics">
+    <option value="">Choose a Category First</option>
+</select>
+</p>
+</form>
+<div id="details"><span></span></div>
+</body>
+</html>

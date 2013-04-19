@@ -1,3 +1,9 @@
+/*Benjamin Swartz
+CIS 114 OL
+login.js
+Chapter 11
+Assignment 6
+4-19-2013*/
 // Script 11.x - login.js #2
 
 // Function called when the form is submitted.

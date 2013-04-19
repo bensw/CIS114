@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Benjamin Swartz
+CIS 114 OL
+japanpopreleases.xml
+Assignment 6
+4-19-2013 -->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10ニューリリース</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=27</link>
+    <atom:link href="http://itunes.apple.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143462/limit=10/genre=27/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10J-Popの最新リリース</description>
+		<language>jp</language>
+		<copyright>Copyright 2008 iTunes K.K
+
+		</copyright>
+		<lastBuildDate>Mon, 06 Apr 2009 09:45:38 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2009-04-06T09:45:38-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://itunes.apple.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>ブランニューピース - ホフディラン</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308807282&amp;s=143462&amp;v0=9988</link>
+    <description>ブランニューピース の ホフディラン </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308807282&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r20/Music/8f/1c/47/mzi.rxekxctu.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308807282&s=143462&v0=9988">ブランニューピース</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=252076700&v0=9988">ホフディラン</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/4/3<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥2,000</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 GENEON UNIVERSAL ENTERTAINMENT</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>ホフディラン</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=252076700&amp;v0=9988</itms:artistLink>
+    <itms:album>ブランニューピース</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308807282&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥2,000</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r20/Music/8f/1c/47/mzi.rxekxctu.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r20/Music/8f/1c/47/mzi.rxekxctu.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r20/Music/8f/1c/47/mzi.rxekxctu.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 GENEON UNIVERSAL ENTERTAINMENT</itms:rights>
+    
+        <itms:releasedate>2009/4/3</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Water On feat. Akino Arai - Single - Curly Giraffe</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308060022&amp;s=143462&amp;v0=9988</link>
+    <description>Water On feat. Akino Arai - Single の Curly Giraffe </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308060022&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/027/Music/ec/c7/99/mzi.kjqbsezm.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308060022&s=143462&v0=9988">Water On feat. Akino Arai - Single</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=130051338&v0=9988">Curly Giraffe</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/4/1<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥200</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						BURGER INN RECORDS</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>Curly Giraffe</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=130051338&amp;v0=9988</itms:artistLink>
+    <itms:album>Water On feat. Akino Arai - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308060022&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥200</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/027/Music/ec/c7/99/mzi.kjqbsezm.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/027/Music/ec/c7/99/mzi.kjqbsezm.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/027/Music/ec/c7/99/mzi.kjqbsezm.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>BURGER INN RECORDS</itms:rights>
+    
+        <itms:releasedate>2009/4/1</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>そしてもう一度夢見るだろう (1st Edition) - EP - 松任谷由実</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308554504&amp;s=143462&amp;v0=9988</link>
+    <description>そしてもう一度夢見るだろう (1st Edition) - EP の 松任谷由実 </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308554504&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r20/Music/a5/e4/5b/mzi.zpqnbsix.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308554504&s=143462&v0=9988">そしてもう一度夢見るだろう (1st Edition) - EP</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=76458419&v0=9988">松任谷由実</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/4/1<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						4</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥800</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 EMI Music Japan Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>松任谷由実</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=76458419&amp;v0=9988</itms:artistLink>
+    <itms:album>そしてもう一度夢見るだろう (1st Edition) - EP</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308554504&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥800</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r20/Music/a5/e4/5b/mzi.zpqnbsix.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r20/Music/a5/e4/5b/mzi.zpqnbsix.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r20/Music/a5/e4/5b/mzi.zpqnbsix.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 EMI Music Japan Inc.</itms:rights>
+    
+        <itms:releasedate>2009/4/1</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Still Love Her (TM NETWORK Tribute Mix) - Single - Kei Kohara + 星野奏子</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308066623&amp;s=143462&amp;v0=9988</link>
+    <description>Still Love Her (TM NETWORK Tribute Mix) - Single の Kei Kohara + 星野奏子 </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308066623&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/003/Music/7e/0a/19/mzi.rjllkmdg.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308066623&s=143462&v0=9988">Still Love Her (TM NETWORK Tribute Mix) - Single</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=42289276&v0=9988">Kei Kohara + 星野奏子</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/4/1<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥150</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 AsianDynasty Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>Kei Kohara + 星野奏子</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=42289276&amp;v0=9988</itms:artistLink>
+    <itms:album>Still Love Her (TM NETWORK Tribute Mix) - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308066623&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥150</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/003/Music/7e/0a/19/mzi.rjllkmdg.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/003/Music/7e/0a/19/mzi.rjllkmdg.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/003/Music/7e/0a/19/mzi.rjllkmdg.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 AsianDynasty Records</itms:rights>
+    
+        <itms:releasedate>2009/4/1</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>ピアノ - 河村隆一</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308980791&amp;s=143462&amp;v0=9988</link>
+    <description>ピアノ の 河村隆一 </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308980791&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r20/Music/db/9a/a7/mzi.jvzuatbb.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308980791&s=143462&v0=9988">ピアノ</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=156862220&v0=9988">河村隆一</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/4/1<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥2,000</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 Columbia Music Entertainment, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>河村隆一</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=156862220&amp;v0=9988</itms:artistLink>
+    <itms:album>ピアノ</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308980791&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥2,000</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r20/Music/db/9a/a7/mzi.jvzuatbb.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r20/Music/db/9a/a7/mzi.jvzuatbb.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r20/Music/db/9a/a7/mzi.jvzuatbb.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 Columbia Music Entertainment, Inc.</itms:rights>
+    
+        <itms:releasedate>2009/4/1</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Etoile feat.キリンジ/Corps de ballet - EP - 冨田ラボ</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308798891&amp;s=143462&amp;v0=9988</link>
+    <description>Etoile feat.キリンジ/Corps de ballet - EP の 冨田ラボ </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308798891&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r20/Music/f2/b9/3d/mzi.mvdopvoi.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308798891&s=143462&v0=9988">Etoile feat.キリンジ/Corps de ballet - EP</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=80915521&v0=9988">冨田ラボ</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/4/1<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥600</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 AVEX ENTERTAINMENT INC.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>冨田ラボ</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=80915521&amp;v0=9988</itms:artistLink>
+    <itms:album>Etoile feat.キリンジ/Corps de ballet - EP</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308798891&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥600</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r20/Music/f2/b9/3d/mzi.mvdopvoi.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r20/Music/f2/b9/3d/mzi.mvdopvoi.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r20/Music/f2/b9/3d/mzi.mvdopvoi.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 AVEX ENTERTAINMENT INC.</itms:rights>
+    
+        <itms:releasedate>2009/4/1</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>PB - SPECIAL OTHERS</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308000501&amp;s=143462&amp;v0=9988</link>
+    <description>PB の SPECIAL OTHERS </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308000501&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r20/Music/2b/ba/0d/mzi.wgircenr.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308000501&s=143462&v0=9988">PB</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=79516112&v0=9988">SPECIAL OTHERS</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/4/1<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥2,000</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						Victor Entertainment, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>SPECIAL OTHERS</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=79516112&amp;v0=9988</itms:artistLink>
+    <itms:album>PB</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308000501&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥2,000</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r20/Music/2b/ba/0d/mzi.wgircenr.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r20/Music/2b/ba/0d/mzi.wgircenr.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r20/Music/2b/ba/0d/mzi.wgircenr.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>Victor Entertainment, Inc.</itms:rights>
+    
+        <itms:releasedate>2009/4/1</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>It&#39;s all Love! - EP - 倖田來未×misono</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307992850&amp;s=143462&amp;v0=9988</link>
+    <description>It&#39;s all Love! - EP の 倖田來未×misono </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307992850&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r20/Music/da/8b/c3/mzi.qcvoigwf.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307992850&s=143462&v0=9988">It's all Love! - EP</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=133232821&v0=9988">倖田來未×misono</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/3/31<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						6</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥900</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 AVEX ENTERTAINMENT INC.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>倖田來未×misono</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=133232821&amp;v0=9988</itms:artistLink>
+    <itms:album>It&#39;s all Love! - EP</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307992850&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥900</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r20/Music/da/8b/c3/mzi.qcvoigwf.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r20/Music/da/8b/c3/mzi.qcvoigwf.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r20/Music/da/8b/c3/mzi.qcvoigwf.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 AVEX ENTERTAINMENT INC.</itms:rights>
+    
+        <itms:releasedate>2009/3/31</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>My dear New Orleans - 宝塚歌劇団・安蘭けい, 遠野あすか &amp; 柚希礼音</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307470105&amp;s=143462&amp;v0=9988</link>
+    <description>My dear New Orleans の 宝塚歌劇団・安蘭けい, 遠野あすか &amp; 柚希礼音 </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307470105&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r20/Music/f7/56/38/mzi.hsxqhbnq.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307470105&s=143462&v0=9988">My dear New Orleans</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=157828193&v0=9988">宝塚歌劇団・安蘭けい, 遠野あすか &amp; 柚希礼音</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/3/26<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						17</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥1,800</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 TAKARAZUKA CREATIVE ARTS CO., LTD.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>宝塚歌劇団・安蘭けい, 遠野あすか &amp; 柚希礼音</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=157828193&amp;v0=9988</itms:artistLink>
+    <itms:album>My dear New Orleans</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307470105&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥1,800</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r20/Music/f7/56/38/mzi.hsxqhbnq.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r20/Music/f7/56/38/mzi.hsxqhbnq.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r20/Music/f7/56/38/mzi.hsxqhbnq.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 TAKARAZUKA CREATIVE ARTS CO., LTD.</itms:rights>
+    
+        <itms:releasedate>2009/3/26</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>春の空 - 植村花菜</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307762010&amp;s=143462&amp;v0=9988</link>
+    <description>春の空 の 植村花菜 </description>
+    <pubDate>Mon, 06 Apr 2009 09:45:38 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307762010&s=143462&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r20/Music/f3/5a/fe/mzi.dsvjcwye.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307762010&s=143462&v0=9988">春の空</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=151351003&v0=9988">植村花菜</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>リリース日:</B>
+						2009/3/25<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>合計曲数:</B>
+						7</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>ジャンル:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&v0=9988">J-Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>価格:</B>
+						¥1,400</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 King Record Co.,Ltd.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=27&amp;v0=9988">J-Pop</category>
+    <itms:artist>植村花菜</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=151351003&amp;v0=9988</itms:artistLink>
+    <itms:album>春の空</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307762010&amp;s=143462&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>¥1,400</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r20/Music/f3/5a/fe/mzi.dsvjcwye.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r20/Music/f3/5a/fe/mzi.dsvjcwye.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r20/Music/f3/5a/fe/mzi.dsvjcwye.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 King Record Co.,Ltd.</itms:rights>
+    
+        <itms:releasedate>2009/3/25</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

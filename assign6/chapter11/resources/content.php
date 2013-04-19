@@ -1,4 +1,10 @@
 <?php # Script 13.3 - login.php
+// Benjamin Swartz
+// CIS 114 OL
+// content.php
+// Chapter 11
+// Assignment 6
+// 4-19-2013
 header('Content-Type: text/xml');
 echo '<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <item>';

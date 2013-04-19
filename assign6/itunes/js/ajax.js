@@ -1,11 +1,11 @@
-// Script 11.1 - ajax.js
-// This script defines a function that creates an XMLHttpRequest object.
 /*Benjamin Swartz
 CIS 114 OL
 ajax.js
-Chapter 11
 Assignment 6
 4-19-2013*/
+// Script 11.1 - ajax.js
+// This script defines a function that creates an XMLHttpRequest object.
+
 // This function returns an XMLHttpRequest object.
 function getXMLHttpRequestObject() {
 	

@@ -1,3 +1,9 @@
+/*Benjamin Swartz
+CIS 114 OL
+json2.js
+Chapter 11
+Assignment 6
+4-19-2013*/
 /*
     http://www.JSON.org/json2.js
     2011-10-19

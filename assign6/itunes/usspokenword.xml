@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Benjamin Swartz
+CIS 114 OL
+usspokenword.xml
+Assignment 6
+4-19-2013 -->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=29</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=50000061/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Spoken Word</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 19 Apr 2013 02:52:25 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2013-04-19T02:52:25-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Better Study and Exams Light of Mind Hypnosis Self Help Guided Meditation Relaxation NLP - Dr. Matthew Cohn &amp; Dr. Mary Fuller</title>
+    <link>https://itunes.apple.com/album/better-study-exams-light-mind/id629824648?uo=1&amp;v0=9988</link>
+    <description>Better Study and Exams Light of Mind Hypnosis Self Help Guided Meditation Relaxation NLP by Dr. Matthew Cohn &amp; Dr. Mary Fuller</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/better-study-exams-light-mind/id629824648?uo=1&v0=9988"><img border="0" src="http://a100.phobos.apple.com/us/r1000/083/Music/v4/41/87/f5/4187f58b-104c-b30f-8185-cd09203baeb9/4105_Better_Study_and_Exams_1500px_300dpi_DDS.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/better-study-exams-light-mind/id629824648?uo=1&v0=9988">Better Study and Exams Light of Mind Hypnosis Self Help Guided Meditation Relaxation NLP</a></B><br>
+						<a href="https://itunes.apple.com/artist/dr.-mary-fuller/id513167011?uo=1&v0=9988">Dr. Matthew Cohn &amp; Dr. Mary Fuller</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 4, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Light of Mind Life-Changing Tools for Self-Transformation</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>Dr. Matthew Cohn &amp; Dr. Mary Fuller</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/dr.-mary-fuller/id513167011?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Better Study and Exams Light of Mind Hypnosis Self Help Guided Meditation Relaxation NLP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/better-study-exams-light-mind/id629824648?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1283.phobos.apple.com/us/r1000/083/Music/v4/41/87/f5/4187f58b-104c-b30f-8185-cd09203baeb9/4105_Better_Study_and_Exams_1500px_300dpi_DDS.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a259.phobos.apple.com/us/r1000/083/Music/v4/41/87/f5/4187f58b-104c-b30f-8185-cd09203baeb9/4105_Better_Study_and_Exams_1500px_300dpi_DDS.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a100.phobos.apple.com/us/r1000/083/Music/v4/41/87/f5/4187f58b-104c-b30f-8185-cd09203baeb9/4105_Better_Study_and_Exams_1500px_300dpi_DDS.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Light of Mind Life-Changing Tools for Self-Transformation</itms:rights>
+    
+        <itms:releasedate>April 4, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Bunga Kering Perpisahan - Denny JA &amp; Niniek L Karim</title>
+    <link>https://itunes.apple.com/album/bunga-kering-perpisahan/id614750097?uo=1&amp;v0=9988</link>
+    <description>Bunga Kering Perpisahan by Denny JA &amp; Niniek L Karim</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/bunga-kering-perpisahan/id614750097?uo=1&v0=9988"><img border="0" src="http://a381.phobos.apple.com/us/r30/Music2/v4/06/35/5b/06355b21-d344-7403-2d48-af136f34a549/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/bunga-kering-perpisahan/id614750097?uo=1&v0=9988">Bunga Kering Perpisahan</a></B><br>
+						<a href="https://itunes.apple.com/artist/denny-ja/id614750103?uo=1&v0=9988">Denny JA &amp; Niniek L Karim</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 4, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$3.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 PT. Yayasan Denny JA</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>Denny JA &amp; Niniek L Karim</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/denny-ja/id614750103?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Bunga Kering Perpisahan</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/bunga-kering-perpisahan/id614750097?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$3.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1388.phobos.apple.com/us/r30/Music2/v4/06/35/5b/06355b21-d344-7403-2d48-af136f34a549/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a364.phobos.apple.com/us/r30/Music2/v4/06/35/5b/06355b21-d344-7403-2d48-af136f34a549/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a381.phobos.apple.com/us/r30/Music2/v4/06/35/5b/06355b21-d344-7403-2d48-af136f34a549/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 PT. Yayasan Denny JA</itms:rights>
+    
+        <itms:releasedate>April 4, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Ghosts - EP - Douglas Jacoby</title>
+    <link>https://itunes.apple.com/album/ghosts-ep/id600194576?uo=1&amp;v0=9988</link>
+    <description>Ghosts - EP by Douglas Jacoby</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/ghosts-ep/id600194576?uo=1&v0=9988"><img border="0" src="http://a211.phobos.apple.com/us/r30/Music/v4/ee/72/dc/ee72dc72-da2e-4d0c-58ff-94ae4a56fc15/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/ghosts-ep/id600194576?uo=1&v0=9988">Ghosts - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/douglas-jacoby/id506256406?mt=11&uo=1&v0=9988">Douglas Jacoby</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 3, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Relate4ever Publishing</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>Douglas Jacoby</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/douglas-jacoby/id506256406?mt=11&amp;uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Ghosts - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/ghosts-ep/id600194576?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1490.phobos.apple.com/us/r30/Music/v4/ee/72/dc/ee72dc72-da2e-4d0c-58ff-94ae4a56fc15/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a466.phobos.apple.com/us/r30/Music/v4/ee/72/dc/ee72dc72-da2e-4d0c-58ff-94ae4a56fc15/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a211.phobos.apple.com/us/r30/Music/v4/ee/72/dc/ee72dc72-da2e-4d0c-58ff-94ae4a56fc15/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Relate4ever Publishing</itms:rights>
+    
+        <itms:releasedate>April 3, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Stawka Wieksza Niz Zycie - Zelazny Krzyz (Tom 13) - Stanislaw Mikulski &amp; Andrzej Zbych</title>
+    <link>https://itunes.apple.com/album/stawka-wieksza-niz-zycie-zelazny/id631368296?uo=1&amp;v0=9988</link>
+    <description>Stawka Wieksza Niz Zycie - Zelazny Krzyz (Tom 13) by Stanislaw Mikulski &amp; Andrzej Zbych</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/stawka-wieksza-niz-zycie-zelazny/id631368296?uo=1&v0=9988"><img border="0" src="http://a711.phobos.apple.com/us/r1000/112/Music/v4/fe/42/b3/fe42b3f3-1e48-e6b2-389d-2caccabf37c5/9788363596453_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/stawka-wieksza-niz-zycie-zelazny/id631368296?uo=1&v0=9988">Stawka Wieksza Niz Zycie - Zelazny Krzyz (Tom 13)</a></B><br>
+						<a href="https://itunes.apple.com/artist/andrzej-zbych/id545204465?uo=1&v0=9988">Stanislaw Mikulski &amp; Andrzej Zbych</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 3, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 AGOY.PL</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>Stanislaw Mikulski &amp; Andrzej Zbych</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/andrzej-zbych/id545204465?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Stawka Wieksza Niz Zycie - Zelazny Krzyz (Tom 13)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/stawka-wieksza-niz-zycie-zelazny/id631368296?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1862.phobos.apple.com/us/r1000/112/Music/v4/fe/42/b3/fe42b3f3-1e48-e6b2-389d-2caccabf37c5/9788363596453_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a838.phobos.apple.com/us/r1000/112/Music/v4/fe/42/b3/fe42b3f3-1e48-e6b2-389d-2caccabf37c5/9788363596453_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a711.phobos.apple.com/us/r1000/112/Music/v4/fe/42/b3/fe42b3f3-1e48-e6b2-389d-2caccabf37c5/9788363596453_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 AGOY.PL</itms:rights>
+    
+        <itms:releasedate>April 3, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Conrad Chamäleon - Gerald Fiedler</title>
+    <link>https://itunes.apple.com/album/conrad-chamaleon/id626607394?uo=1&amp;v0=9988</link>
+    <description>Conrad Chamäleon by Gerald Fiedler</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/conrad-chamaleon/id626607394?uo=1&v0=9988"><img border="0" src="http://a980.phobos.apple.com/us/r30/Music/v4/f6/56/fc/f656fc55-4333-1ed9-31e8-40e0ac0ce29f/9783942503358_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/conrad-chamaleon/id626607394?uo=1&v0=9988">Conrad Chamäleon</a></B><br>
+						<a href="https://itunes.apple.com/artist/gerald-fiedler/id626607408?uo=1&v0=9988">Gerald Fiedler</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						15</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 MRPJ-Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>Gerald Fiedler</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/gerald-fiedler/id626607408?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Conrad Chamäleon</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/conrad-chamaleon/id626607394?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1811.phobos.apple.com/us/r30/Music/v4/f6/56/fc/f656fc55-4333-1ed9-31e8-40e0ac0ce29f/9783942503358_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a787.phobos.apple.com/us/r30/Music/v4/f6/56/fc/f656fc55-4333-1ed9-31e8-40e0ac0ce29f/9783942503358_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a980.phobos.apple.com/us/r30/Music/v4/f6/56/fc/f656fc55-4333-1ed9-31e8-40e0ac0ce29f/9783942503358_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 MRPJ-Records</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Head that Wears a Crown - Alan Cumming</title>
+    <link>https://itunes.apple.com/album/the-head-that-wears-a-crown/id631417042?uo=1&amp;v0=9988</link>
+    <description>The Head that Wears a Crown by Alan Cumming</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/the-head-that-wears-a-crown/id631417042?uo=1&v0=9988"><img border="0" src="http://a1681.phobos.apple.com/us/r1000/108/Music/v4/86/3e/68/863e68f4-acd1-5078-7585-44d6a337dda3/091037551597.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/the-head-that-wears-a-crown/id631417042?uo=1&v0=9988">The Head that Wears a Crown</a></B><br>
+						<a href="https://itunes.apple.com/artist/alan-cumming/id2411119?uo=1&v0=9988">Alan Cumming</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						22</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 GPR Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>Alan Cumming</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/alan-cumming/id2411119?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Head that Wears a Crown</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/the-head-that-wears-a-crown/id631417042?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1824.phobos.apple.com/us/r1000/108/Music/v4/86/3e/68/863e68f4-acd1-5078-7585-44d6a337dda3/091037551597.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a800.phobos.apple.com/us/r1000/108/Music/v4/86/3e/68/863e68f4-acd1-5078-7585-44d6a337dda3/091037551597.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1681.phobos.apple.com/us/r1000/108/Music/v4/86/3e/68/863e68f4-acd1-5078-7585-44d6a337dda3/091037551597.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 GPR Records</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Par chemins (Guitare solo) - Patrice Jania</title>
+    <link>https://itunes.apple.com/album/par-chemins-guitare-solo/id626937403?uo=1&amp;v0=9988</link>
+    <description>Par chemins (Guitare solo) by Patrice Jania</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/par-chemins-guitare-solo/id626937403?uo=1&v0=9988"><img border="0" src="http://a1066.phobos.apple.com/us/r30/Music/v4/57/21/ea/5721ea0c-47e3-7cab-1cd9-6eb588b6ac82/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/par-chemins-guitare-solo/id626937403?uo=1&v0=9988">Par chemins (Guitare solo)</a></B><br>
+						<a href="https://itunes.apple.com/artist/patrice-jania/id390780613?uo=1&v0=9988">Patrice Jania</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$10.89</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Centre De La Guitare</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>Patrice Jania</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/patrice-jania/id390780613?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Par chemins (Guitare solo)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/par-chemins-guitare-solo/id626937403?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$10.89</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1209.phobos.apple.com/us/r30/Music/v4/57/21/ea/5721ea0c-47e3-7cab-1cd9-6eb588b6ac82/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a537.phobos.apple.com/us/r30/Music/v4/57/21/ea/5721ea0c-47e3-7cab-1cd9-6eb588b6ac82/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1066.phobos.apple.com/us/r30/Music/v4/57/21/ea/5721ea0c-47e3-7cab-1cd9-6eb588b6ac82/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Centre De La Guitare</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Sour Diesel Deluxe (A Cappella) - Various Artists</title>
+    <link>https://itunes.apple.com/album/sour-diesel-deluxe-a-cappella/id626492743?uo=1&amp;v0=9988</link>
+    <description>Sour Diesel Deluxe (A Cappella) by Various Artists</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/sour-diesel-deluxe-a-cappella/id626492743?uo=1&v0=9988"><img border="0" src="http://a1728.phobos.apple.com/us/r30/Music/v4/5e/de/68/5ede682c-990b-ab41-7349-6ed612cdbbdb/859709777351.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/sour-diesel-deluxe-a-cappella/id626492743?uo=1&v0=9988">Sour Diesel Deluxe (A Cappella)</a></B><br>
+						<br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						16</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Multi Vision Entertainment Network,LLC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>Various Artists</itms:artist>
+    <itms:artistLink></itms:artistLink>
+    <itms:album>Sour Diesel Deluxe (A Cappella)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/sour-diesel-deluxe-a-cappella/id626492743?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1503.phobos.apple.com/us/r30/Music/v4/5e/de/68/5ede682c-990b-ab41-7349-6ed612cdbbdb/859709777351.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a479.phobos.apple.com/us/r30/Music/v4/5e/de/68/5ede682c-990b-ab41-7349-6ed612cdbbdb/859709777351.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1728.phobos.apple.com/us/r30/Music/v4/5e/de/68/5ede682c-990b-ab41-7349-6ed612cdbbdb/859709777351.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Multi Vision Entertainment Network,LLC</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Stawka wieksza niz zycie - Ostatnia szansa (Tom 9) - Stanislaw Mikulski &amp; Andrzej Zbych</title>
+    <link>https://itunes.apple.com/album/stawka-wieksza-niz-zycie-ostatnia/id630541842?uo=1&amp;v0=9988</link>
+    <description>Stawka wieksza niz zycie - Ostatnia szansa (Tom 9) by Stanislaw Mikulski &amp; Andrzej Zbych</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/stawka-wieksza-niz-zycie-ostatnia/id630541842?uo=1&v0=9988"><img border="0" src="http://a737.phobos.apple.com/us/r1000/077/Music/v4/2b/e5/ae/2be5aeeb-94f7-32ba-ee0d-8f7427981aa2/9788363596415_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/stawka-wieksza-niz-zycie-ostatnia/id630541842?uo=1&v0=9988">Stawka wieksza niz zycie - Ostatnia szansa (Tom 9)</a></B><br>
+						<a href="https://itunes.apple.com/artist/andrzej-zbych/id545204465?uo=1&v0=9988">Stanislaw Mikulski &amp; Andrzej Zbych</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						3</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 AGOY.PL</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>Stanislaw Mikulski &amp; Andrzej Zbych</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/andrzej-zbych/id545204465?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Stawka wieksza niz zycie - Ostatnia szansa (Tom 9)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/stawka-wieksza-niz-zycie-ostatnia/id630541842?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1488.phobos.apple.com/us/r1000/077/Music/v4/2b/e5/ae/2be5aeeb-94f7-32ba-ee0d-8f7427981aa2/9788363596415_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a464.phobos.apple.com/us/r1000/077/Music/v4/2b/e5/ae/2be5aeeb-94f7-32ba-ee0d-8f7427981aa2/9788363596415_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a737.phobos.apple.com/us/r1000/077/Music/v4/2b/e5/ae/2be5aeeb-94f7-32ba-ee0d-8f7427981aa2/9788363596415_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 AGOY.PL</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Danny Rimer - PandoDaily</title>
+    <link>https://itunes.apple.com/album/danny-rimer/id624857084?uo=1&amp;v0=9988</link>
+    <description>Danny Rimer by PandoDaily</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:25 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/danny-rimer/id624857084?uo=1&v0=9988"><img border="0" src="http://a1135.phobos.apple.com/us/r30/Music2/v4/6a/08/ad/6a08adc0-e4c8-4c29-3f4a-8018c01a0deb/859709751832_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/danny-rimer/id624857084?uo=1&v0=9988">Danny Rimer</a></B><br>
+						<a href="https://itunes.apple.com/artist/pandodaily/id587932480?uo=1&v0=9988">PandoDaily</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&v0=9988">Spoken Word</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 PandoDaily</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-spoken-word/id50000061?uo=1&amp;v0=9988">Spoken Word</category>
+    <itms:artist>PandoDaily</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/pandodaily/id587932480?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Danny Rimer</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/danny-rimer/id624857084?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a638.phobos.apple.com/us/r30/Music2/v4/6a/08/ad/6a08adc0-e4c8-4c29-3f4a-8018c01a0deb/859709751832_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1614.phobos.apple.com/us/r30/Music2/v4/6a/08/ad/6a08adc0-e4c8-4c29-3f4a-8018c01a0deb/859709751832_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1135.phobos.apple.com/us/r30/Music2/v4/6a/08/ad/6a08adc0-e4c8-4c29-3f4a-8018c01a0deb/859709751832_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 PandoDaily</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

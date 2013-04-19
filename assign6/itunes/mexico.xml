@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Benjamin Swartz
+CIS 114 OL
+mexico.xml
+Assignment 6
+4-19-2013 -->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>Los 10 Albums exclusivos y destacados en iTunes</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?id=27042</link>
+    <atom:link href="http://ax.phobos.apple.com.edgesuite.net/WebObjects/MZStore.woa/wpa/MRSS/featuredalbums/sf=143468/limit=10/genre=18/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: los 10 Albums exclusivos y destacados de Hip Hop/Rap</description>
+		<language>es</language>
+		<copyright>Derechos de autor 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Sun, 07 Nov 2010 12:00:20 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2010-11-07T12:00:20-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://ax.phobos.apple.com.edgesuite.net/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Power - Single - Kanye West</title>
+    <link>http://itunes.apple.com/album/power-single/id380246580?uo=1&amp;v0=9992</link>
+    <description>Power - Single de Kanye West</description>
+    <pubDate>Sun, 07 Nov 2010 12:00:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/power-single/id380246580?uo=1&v0=9992"><img border="0" src="http://a1.phobos.apple.com/us/r1000/054/Music/8d/b6/de/mzi.dycwbtjr.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/power-single/id380246580?uo=1&v0=9992">Power - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/kanye-west/id2715720?uo=1&v0=9992">Kanye West</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Fecha de lanzamiento:</B>
+						01/07/2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total de canciones:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Género:</B>
+						<a href="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9992">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Precio:</B>
+						$12.00</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Roc-A-Fella Records, LLC</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9992">Hip-Hop/Rap</category>
+    <itms:artist>Kanye West</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/kanye-west/id2715720?uo=1&amp;v0=9992</itms:artistLink>
+    <itms:album>Power - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/power-single/id380246580?uo=1&amp;v0=9992</itms:albumLink>
+    <itms:albumPrice>$12.00</itms:albumPrice>
+                
+                    <itms:featureArt>/images/pumpkinsplash.jpg</itms:featureArt>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/054/Music/8d/b6/de/mzi.dycwbtjr.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/054/Music/8d/b6/de/mzi.dycwbtjr.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/054/Music/8d/b6/de/mzi.dycwbtjr.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Roc-A-Fella Records, LLC</itms:rights>
+    
+        <itms:releasedate>01/07/2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Survival Story - Flobots</title>
+    <link>http://itunes.apple.com/album/survival-story/id360138003?uo=1&amp;v0=9992</link>
+    <description>Survival Story de Flobots</description>
+    <pubDate>Sun, 07 Nov 2010 12:00:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/survival-story/id360138003?uo=1&v0=9992"><img border="0" src="http://a1.phobos.apple.com/us/r1000/029/Music/13/db/8f/mzi.silbsrom.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/survival-story/id360138003?uo=1&v0=9992">Survival Story</a></B><br>
+						<a href="http://itunes.apple.com/artist/flobots/id263337948?uo=1&v0=9992">Flobots</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Fecha de lanzamiento:</B>
+						16/03/2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total de canciones:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Género:</B>
+						<a href="http://itunes.apple.com/genre/music-alternative/id20?uo=1&v0=9992">Alternative</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Precio:</B>
+						$120.00</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Universal Republic Records, a division of UMG Recordings, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-alternative/id20?uo=1&amp;v0=9992">Alternative</category>
+    <itms:artist>Flobots</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/flobots/id263337948?uo=1&amp;v0=9992</itms:artistLink>
+    <itms:album>Survival Story</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/survival-story/id360138003?uo=1&amp;v0=9992</itms:albumLink>
+    <itms:albumPrice>$120.00</itms:albumPrice>
+                
+                    <itms:featureArt>/images/pumpkinsplash.jpg</itms:featureArt>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/029/Music/13/db/8f/mzi.silbsrom.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/029/Music/13/db/8f/mzi.silbsrom.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/029/Music/13/db/8f/mzi.silbsrom.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Universal Republic Records, a division of UMG Recordings, Inc.</itms:rights>
+    
+        <itms:releasedate>16/03/2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Dirty Bailarina - Mala Rodríguez</title>
+    <link>http://itunes.apple.com/album/dirty-bailarina/id387265870?uo=1&amp;v0=9992</link>
+    <description>Dirty Bailarina de Mala Rodríguez</description>
+    <pubDate>Sun, 07 Nov 2010 12:00:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/dirty-bailarina/id387265870?uo=1&v0=9992"><img border="0" src="http://a1.phobos.apple.com/us/r1000/009/Music/e0/63/cb/mzi.vtvvjbrm.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/dirty-bailarina/id387265870?uo=1&v0=9992">Dirty Bailarina</a></B><br>
+						<a href="http://itunes.apple.com/artist/mala-rodriguez/id3181420?uo=1&v0=9992">Mala Rodríguez</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Fecha de lanzamiento:</B>
+						17/08/2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total de canciones:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Género:</B>
+						<a href="http://itunes.apple.com/genre/music-latin-reggaeton-y-hip/id1119?uo=1&v0=9992">Reggaeton y Hip-Hop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Precio:</B>
+						$120.00</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Universal Music Spain, S.L.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-latin-reggaeton-y-hip/id1119?uo=1&amp;v0=9992">Reggaeton y Hip-Hop</category>
+    <itms:artist>Mala Rodríguez</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/mala-rodriguez/id3181420?uo=1&amp;v0=9992</itms:artistLink>
+    <itms:album>Dirty Bailarina</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/dirty-bailarina/id387265870?uo=1&amp;v0=9992</itms:albumLink>
+    <itms:albumPrice>$120.00</itms:albumPrice>
+                
+                    <itms:featureArt>/images/pumpkinsplash.jpg</itms:featureArt>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/009/Music/e0/63/cb/mzi.vtvvjbrm.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/009/Music/e0/63/cb/mzi.vtvvjbrm.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/009/Music/e0/63/cb/mzi.vtvvjbrm.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Universal Music Spain, S.L.</itms:rights>
+    
+        <itms:releasedate>17/08/2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Recovery - Eminem</title>
+    <link>http://itunes.apple.com/album/recovery/id377103708?uo=1&amp;v0=9992</link>
+    <description>Recovery de Eminem</description>
+    <pubDate>Sun, 07 Nov 2010 12:00:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/recovery/id377103708?uo=1&v0=9992"><img border="0" src="http://a1.phobos.apple.com/us/r1000/049/Music/44/60/e3/mzi.aqarpohq.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/recovery/id377103708?uo=1&v0=9992">Recovery</a></B><br>
+						<a href="http://itunes.apple.com/artist/eminem/id111051?uo=1&v0=9992">Eminem</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Fecha de lanzamiento:</B>
+						21/06/2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total de canciones:</B>
+						17</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Género:</B>
+						<a href="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9992">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Precio:</B>
+						$120.00</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Aftermath Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9992">Hip-Hop/Rap</category>
+    <itms:artist>Eminem</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/eminem/id111051?uo=1&amp;v0=9992</itms:artistLink>
+    <itms:album>Recovery</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/recovery/id377103708?uo=1&amp;v0=9992</itms:albumLink>
+    <itms:albumPrice>$120.00</itms:albumPrice>
+                
+                    <itms:featureArt>/images/pumpkinsplash.jpg</itms:featureArt>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/049/Music/44/60/e3/mzi.aqarpohq.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/049/Music/44/60/e3/mzi.aqarpohq.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/049/Music/44/60/e3/mzi.aqarpohq.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Aftermath Records</itms:rights>
+    
+        <itms:releasedate>21/06/2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>B.o.B Presents: The Adventures of Bobby Ray (Deluxe) - B.o.B</title>
+    <link>http://itunes.apple.com/album/b-o-b-presents-the-adventures/id368016701?uo=1&amp;v0=9992</link>
+    <description>B.o.B Presents: The Adventures of Bobby Ray (Deluxe) de B.o.B</description>
+    <pubDate>Sun, 07 Nov 2010 12:00:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/b-o-b-presents-the-adventures/id368016701?uo=1&v0=9992"><img border="0" src="http://a1.phobos.apple.com/us/r1000/012/Music/14/0b/8e/mzi.vsvfenht.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/b-o-b-presents-the-adventures/id368016701?uo=1&v0=9992">B.o.B Presents: The Adventures of Bobby Ray (Deluxe)</a></B><br>
+						<a href="http://itunes.apple.com/artist/b-o-b/id259700865?uo=1&v0=9992">B.o.B</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Fecha de lanzamiento:</B>
+						27/04/2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total de canciones:</B>
+						16</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Género:</B>
+						<a href="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9992">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Precio:</B>
+						$130.00</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9992">Hip-Hop/Rap</category>
+    <itms:artist>B.o.B</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/b-o-b/id259700865?uo=1&amp;v0=9992</itms:artistLink>
+    <itms:album>B.o.B Presents: The Adventures of Bobby Ray (Deluxe)</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/b-o-b-presents-the-adventures/id368016701?uo=1&amp;v0=9992</itms:albumLink>
+    <itms:albumPrice>$130.00</itms:albumPrice>
+                
+                    <itms:featureArt>/images/pumpkinsplash.jpg</itms:featureArt>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/012/Music/14/0b/8e/mzi.vsvfenht.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/012/Music/14/0b/8e/mzi.vsvfenht.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/012/Music/14/0b/8e/mzi.vsvfenht.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Atlantic Recording Corporation for the United States and WEA International Inc. for the world outside of the United States</itms:rights>
+    
+        <itms:releasedate>27/04/2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>How I Got Over - The Roots</title>
+    <link>http://itunes.apple.com/album/how-i-got-over/id377445282?uo=1&amp;v0=9992</link>
+    <description>How I Got Over de The Roots</description>
+    <pubDate>Sun, 07 Nov 2010 12:00:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/how-i-got-over/id377445282?uo=1&v0=9992"><img border="0" src="http://a1.phobos.apple.com/us/r1000/000/Music/c0/65/05/mzi.vdsltupi.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/how-i-got-over/id377445282?uo=1&v0=9992">How I Got Over</a></B><br>
+						<a href="http://itunes.apple.com/artist/the-roots/id43680?uo=1&v0=9992">The Roots</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Fecha de lanzamiento:</B>
+						21/06/2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total de canciones:</B>
+						14</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Género:</B>
+						<a href="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9992">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Precio:</B>
+						$120.00</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 The Island Def Jam Music Group</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9992">Hip-Hop/Rap</category>
+    <itms:artist>The Roots</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/the-roots/id43680?uo=1&amp;v0=9992</itms:artistLink>
+    <itms:album>How I Got Over</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/how-i-got-over/id377445282?uo=1&amp;v0=9992</itms:albumLink>
+    <itms:albumPrice>$120.00</itms:albumPrice>
+                
+                    <itms:featureArt>/images/pumpkinsplash.jpg</itms:featureArt>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/000/Music/c0/65/05/mzi.vdsltupi.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/000/Music/c0/65/05/mzi.vdsltupi.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/000/Music/c0/65/05/mzi.vdsltupi.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 The Island Def Jam Music Group</itms:rights>
+    
+        <itms:releasedate>21/06/2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Darkside, Vol. 1 - Fat Joe</title>
+    <link>http://itunes.apple.com/album/the-darkside-vol-1/id381804920?uo=1&amp;v0=9992</link>
+    <description>The Darkside, Vol. 1 de Fat Joe</description>
+    <pubDate>Sun, 07 Nov 2010 12:00:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/the-darkside-vol-1/id381804920?uo=1&v0=9992"><img border="0" src="http://a1.phobos.apple.com/us/r1000/017/Music/e8/d9/6d/mzi.ealxixpl.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/the-darkside-vol-1/id381804920?uo=1&v0=9992">The Darkside, Vol. 1</a></B><br>
+						<a href="http://itunes.apple.com/artist/fat-joe/id150627775?uo=1&v0=9992">Fat Joe</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Fecha de lanzamiento:</B>
+						27/07/2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total de canciones:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Género:</B>
+						<a href="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9992">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Precio:</B>
+						$120.00</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Terror Squad Entertainment &amp; E1 Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9992">Hip-Hop/Rap</category>
+    <itms:artist>Fat Joe</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/fat-joe/id150627775?uo=1&amp;v0=9992</itms:artistLink>
+    <itms:album>The Darkside, Vol. 1</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/the-darkside-vol-1/id381804920?uo=1&amp;v0=9992</itms:albumLink>
+    <itms:albumPrice>$120.00</itms:albumPrice>
+                
+                    <itms:featureArt>/images/pumpkinsplash.jpg</itms:featureArt>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/017/Music/e8/d9/6d/mzi.ealxixpl.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/017/Music/e8/d9/6d/mzi.ealxixpl.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/017/Music/e8/d9/6d/mzi.ealxixpl.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Terror Squad Entertainment &amp; E1 Music</itms:rights>
+    
+        <itms:releasedate>27/07/2010</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Megatron Majorz Redux - Vandalyzm</title>
+    <link>http://itunes.apple.com/album/megatron-majorz-redux/id383796743?uo=1&amp;v0=9992</link>
+    <description>Megatron Majorz Redux de Vandalyzm</description>
+    <pubDate>Sun, 07 Nov 2010 12:00:20 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/megatron-majorz-redux/id383796743?uo=1&v0=9992"><img border="0" src="http://a1.phobos.apple.com/us/r1000/002/Music/06/b6/19/mzi.bqomhbau.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://ax.phobos.apple.com.edgesuite.net/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/megatron-majorz-redux/id383796743?uo=1&v0=9992">Megatron Majorz Redux</a></B><br>
+						<a href="http://itunes.apple.com/artist/vandalyzm/id266840935?uo=1&v0=9992">Vandalyzm</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Fecha de lanzamiento:</B>
+						17/08/2010<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total de canciones:</B>
+						17</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Género:</B>
+						<a href="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&v0=9992">Hip-Hop/Rap</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Precio:</B>
+						$120.00</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Soulspazm Records, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-hip-hop-rap/id18?uo=1&amp;v0=9992">Hip-Hop/Rap</category>
+    <itms:artist>Vandalyzm</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/vandalyzm/id266840935?uo=1&amp;v0=9992</itms:artistLink>
+    <itms:album>Megatron Majorz Redux</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/megatron-majorz-redux/id383796743?uo=1&amp;v0=9992</itms:albumLink>
+    <itms:albumPrice>$120.00</itms:albumPrice>
+                
+                    <itms:featureArt>/images/pumpkinsplash.jpg</itms:featureArt>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/002/Music/06/b6/19/mzi.bqomhbau.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/002/Music/06/b6/19/mzi.bqomhbau.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/002/Music/06/b6/19/mzi.bqomhbau.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Soulspazm Records, Inc.</itms:rights>
+    
+        <itms:releasedate>17/08/2010</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Benjamin Swartz
+CIS 114 OL
+usclassical.xml
+Assignment 6
+4-19-2013 -->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=5</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=5/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Classical</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 19 Apr 2013 02:52:06 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2013-04-19T02:52:06-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Haydn: Piano Concertos Nos. 3, 4 &amp; 11 - Marc-André Hamelin, Les Violons du Roy &amp; Bernard Labadie</title>
+    <link>https://itunes.apple.com/album/haydn-piano-concertos-nos./id602656321?uo=1&amp;v0=9988</link>
+    <description>Haydn: Piano Concertos Nos. 3, 4 &amp; 11 by Marc-André Hamelin, Les Violons du Roy &amp; Bernard Labadie</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/haydn-piano-concertos-nos./id602656321?uo=1&v0=9988"><img border="0" src="http://a1224.phobos.apple.com/us/r30/Music/v4/99/d7/da/99d7da4c-3103-585f-4499-47d9bb5b1627/034571179254.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/haydn-piano-concertos-nos./id602656321?uo=1&v0=9988">Haydn: Piano Concertos Nos. 3, 4 &amp; 11</a></B><br>
+						<a href="https://itunes.apple.com/artist/bernard-labadie/id180682373?uo=1&v0=9988">Marc-André Hamelin, Les Violons du Roy &amp; Bernard Labadie</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						9</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Hyperion Records Limited</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>Marc-André Hamelin, Les Violons du Roy &amp; Bernard Labadie</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/bernard-labadie/id180682373?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Haydn: Piano Concertos Nos. 3, 4 &amp; 11</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/haydn-piano-concertos-nos./id602656321?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a215.phobos.apple.com/us/r30/Music/v4/99/d7/da/99d7da4c-3103-585f-4499-47d9bb5b1627/034571179254.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1191.phobos.apple.com/us/r30/Music/v4/99/d7/da/99d7da4c-3103-585f-4499-47d9bb5b1627/034571179254.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1224.phobos.apple.com/us/r30/Music/v4/99/d7/da/99d7da4c-3103-585f-4499-47d9bb5b1627/034571179254.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Hyperion Records Limited</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>in My Craft or Sullen Art: Selected Stories and Poems By Dylan Thomas - Geraint Wyn Davies, Anonymous, Francesca Faridany, Carole Shelley, Dana Ivey &amp; Mark Stone</title>
+    <link>https://itunes.apple.com/album/in-my-craft-or-sullen-art/id631414478?uo=1&amp;v0=9988</link>
+    <description>in My Craft or Sullen Art: Selected Stories and Poems By Dylan Thomas by Geraint Wyn Davies, Anonymous, Francesca Faridany, Carole Shelley, Dana Ivey &amp; Mark Stone</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/in-my-craft-or-sullen-art/id631414478?uo=1&v0=9988"><img border="0" src="http://a1761.phobos.apple.com/us/r1000/062/Music2/v4/c8/0b/d7/c80bd755-10f4-826a-3be3-50115dc0657e/013964121483.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/in-my-craft-or-sullen-art/id631414478?uo=1&v0=9988">in My Craft or Sullen Art: Selected Stories and Poems By Dylan Thomas</a></B><br>
+						<a href="https://itunes.apple.com/artist/anonymous/id223827?uo=1&v0=9988">Geraint Wyn Davies, Anonymous, Francesca Faridany, Carole Shelley, Dana Ivey &amp; Mark Stone</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						31</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 GPR Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>Geraint Wyn Davies, Anonymous, Francesca Faridany, Carole Shelley, Dana Ivey &amp; Mark Stone</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/anonymous/id223827?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>in My Craft or Sullen Art: Selected Stories and Poems By Dylan Thomas</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/in-my-craft-or-sullen-art/id631414478?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1824.phobos.apple.com/us/r1000/062/Music2/v4/c8/0b/d7/c80bd755-10f4-826a-3be3-50115dc0657e/013964121483.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a800.phobos.apple.com/us/r1000/062/Music2/v4/c8/0b/d7/c80bd755-10f4-826a-3be3-50115dc0657e/013964121483.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1761.phobos.apple.com/us/r1000/062/Music2/v4/c8/0b/d7/c80bd755-10f4-826a-3be3-50115dc0657e/013964121483.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 GPR Records</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>For Now I Am Winter (Bonus Track Version) - Ólafur Arnalds</title>
+    <link>https://itunes.apple.com/album/for-now-i-am-winter-bonus/id620138224?uo=1&amp;v0=9988</link>
+    <description>For Now I Am Winter (Bonus Track Version) by Ólafur Arnalds</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/for-now-i-am-winter-bonus/id620138224?uo=1&v0=9988"><img border="0" src="http://a647.phobos.apple.com/us/r1000/088/Music/v4/40/fd/73/40fd73c9-0cb0-92d3-b95d-f0191dc17ee3/UMG_cvrart_00028948102280_01_RGB72_1500x1500_12UMGIM64063.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/for-now-i-am-winter-bonus/id620138224?uo=1&v0=9988">For Now I Am Winter (Bonus Track Version)</a></B><br>
+						<a href="https://itunes.apple.com/artist/olafur-arnalds/id265425550?uo=1&v0=9988">Ólafur Arnalds</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						15</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Mercury Classics, a Division of Decca Music Group Limited</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>Ólafur Arnalds</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/olafur-arnalds/id265425550?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>For Now I Am Winter (Bonus Track Version)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/for-now-i-am-winter-bonus/id620138224?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$11.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1798.phobos.apple.com/us/r1000/088/Music/v4/40/fd/73/40fd73c9-0cb0-92d3-b95d-f0191dc17ee3/UMG_cvrart_00028948102280_01_RGB72_1500x1500_12UMGIM64063.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1126.phobos.apple.com/us/r1000/088/Music/v4/40/fd/73/40fd73c9-0cb0-92d3-b95d-f0191dc17ee3/UMG_cvrart_00028948102280_01_RGB72_1500x1500_12UMGIM64063.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a647.phobos.apple.com/us/r1000/088/Music/v4/40/fd/73/40fd73c9-0cb0-92d3-b95d-f0191dc17ee3/UMG_cvrart_00028948102280_01_RGB72_1500x1500_12UMGIM64063.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Mercury Classics, a Division of Decca Music Group Limited</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Grainger: Works for Large Chorus and Orchestra - Melbourne Symphony Orchestra Chorus, Melbourne Symphony Orchestra, Sir Andrew Davis &amp; Sydney Chamber Choir</title>
+    <link>https://itunes.apple.com/album/grainger-works-for-large-chorus/id622739397?uo=1&amp;v0=9988</link>
+    <description>Grainger: Works for Large Chorus and Orchestra by Melbourne Symphony Orchestra Chorus, Melbourne Symphony Orchestra, Sir Andrew Davis &amp; Sydney Chamber Choir</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/grainger-works-for-large-chorus/id622739397?uo=1&v0=9988"><img border="0" src="http://a166.phobos.apple.com/us/r1000/070/Music/v4/0c/2e/81/0c2e8149-a187-4821-783b-c4bbd253b5a1/095115512128.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/grainger-works-for-large-chorus/id622739397?uo=1&v0=9988">Grainger: Works for Large Chorus and Orchestra</a></B><br>
+						<a href="https://itunes.apple.com/artist/melbourne-symphony-orchestra/id19105344?uo=1&v0=9988">Melbourne Symphony Orchestra Chorus, Melbourne Symphony Orchestra, Sir Andrew Davis &amp; Sydney Chamber Choir</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Chandos</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>Melbourne Symphony Orchestra Chorus, Melbourne Symphony Orchestra, Sir Andrew Davis &amp; Sydney Chamber Choir</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/melbourne-symphony-orchestra/id19105344?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Grainger: Works for Large Chorus and Orchestra</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/grainger-works-for-large-chorus/id622739397?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1285.phobos.apple.com/us/r1000/070/Music/v4/0c/2e/81/0c2e8149-a187-4821-783b-c4bbd253b5a1/095115512128.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a261.phobos.apple.com/us/r1000/070/Music/v4/0c/2e/81/0c2e8149-a187-4821-783b-c4bbd253b5a1/095115512128.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a166.phobos.apple.com/us/r1000/070/Music/v4/0c/2e/81/0c2e8149-a187-4821-783b-c4bbd253b5a1/095115512128.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Chandos</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The 50 Greatest Violin Pieces by Joshua Bell - Joshua Bell</title>
+    <link>https://itunes.apple.com/album/50-greatest-violin-pieces/id623277254?uo=1&amp;v0=9988</link>
+    <description>The 50 Greatest Violin Pieces by Joshua Bell by Joshua Bell</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/50-greatest-violin-pieces/id623277254?uo=1&v0=9988"><img border="0" src="http://a1587.phobos.apple.com/us/r30/Music2/v4/d4/13/e3/d413e36f-bf27-8770-a88d-cae20d1d505a/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/50-greatest-violin-pieces/id623277254?uo=1&v0=9988">The 50 Greatest Violin Pieces by Joshua Bell</a></B><br>
+						<a href="https://itunes.apple.com/artist/joshua-bell/id549020?uo=1&v0=9988">Joshua Bell</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						50</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 U-5</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>Joshua Bell</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/joshua-bell/id549020?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The 50 Greatest Violin Pieces by Joshua Bell</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/50-greatest-violin-pieces/id623277254?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1234.phobos.apple.com/us/r30/Music2/v4/d4/13/e3/d413e36f-bf27-8770-a88d-cae20d1d505a/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a210.phobos.apple.com/us/r30/Music2/v4/d4/13/e3/d413e36f-bf27-8770-a88d-cae20d1d505a/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1587.phobos.apple.com/us/r30/Music2/v4/d4/13/e3/d413e36f-bf27-8770-a88d-cae20d1d505a/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 U-5</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The 50 Greatest Romantic Pieces By Katherine Jenkins - Katherine Jenkins</title>
+    <link>https://itunes.apple.com/album/50-greatest-romantic-pieces/id622612619?uo=1&amp;v0=9988</link>
+    <description>The 50 Greatest Romantic Pieces By Katherine Jenkins by Katherine Jenkins</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/50-greatest-romantic-pieces/id622612619?uo=1&v0=9988"><img border="0" src="http://a1416.phobos.apple.com/us/r1000/083/Music/v4/ed/e6/df/ede6dfda-eeb2-203e-1c32-8a5e86c77ca4/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/50-greatest-romantic-pieces/id622612619?uo=1&v0=9988">The 50 Greatest Romantic Pieces By Katherine Jenkins</a></B><br>
+						<a href="https://itunes.apple.com/artist/katherine-jenkins/id15157667?uo=1&v0=9988">Katherine Jenkins</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						50</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 U-5</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>Katherine Jenkins</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/katherine-jenkins/id15157667?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The 50 Greatest Romantic Pieces By Katherine Jenkins</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/50-greatest-romantic-pieces/id622612619?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1607.phobos.apple.com/us/r1000/083/Music/v4/ed/e6/df/ede6dfda-eeb2-203e-1c32-8a5e86c77ca4/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a935.phobos.apple.com/us/r1000/083/Music/v4/ed/e6/df/ede6dfda-eeb2-203e-1c32-8a5e86c77ca4/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1416.phobos.apple.com/us/r1000/083/Music/v4/ed/e6/df/ede6dfda-eeb2-203e-1c32-8a5e86c77ca4/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 U-5</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Richard Tauber Collection, Vol. 7: The Complete Lehár Studio Recordings III - Richard Tauber, Franz Lehár, Wiener Philharmoniker, Erich Wolfgang Korngold, Odeon Kunstlerorchester, Ernst Hauke, Anonymous, Studio Orchestra, Henry Geehl, Lyceum Theater Orchestra, Lyceum Theatre Chorus, Frank Collinson, Evelyn Laye, George Walter &amp; Ronnie Munro</title>
+    <link>https://itunes.apple.com/album/richard-tauber-collection/id626800084?uo=1&amp;v0=9988</link>
+    <description>The Richard Tauber Collection, Vol. 7: The Complete Lehár Studio Recordings III by Richard Tauber, Franz Lehár, Wiener Philharmoniker, Erich Wolfgang Korngold, Odeon Kunstlerorchester, Ernst Hauke, Anonymous, Studio Orchestra, Henry Geehl, Lyceum Theater Orchestra, Lyceum Theatre Chorus, Frank Collinson, Evelyn Laye, George Walter &amp; Ronnie Munro</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/richard-tauber-collection/id626800084?uo=1&v0=9988"><img border="0" src="http://a1001.phobos.apple.com/us/r1000/113/Music2/v4/7e/1d/4d/7e1d4d5f-59a4-0896-9fcf-cbcf429ead1a/4016351012223.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/richard-tauber-collection/id626800084?uo=1&v0=9988">The Richard Tauber Collection, Vol. 7: The Complete Lehár Studio Recordings III</a></B><br>
+						<a href="https://itunes.apple.com/artist/anonymous/id223827?uo=1&v0=9988">Richard Tauber, Franz Lehár, Wiener Philharmoniker, Erich Wolfgang Korngold, Odeon Kunstlerorchester, Ernst Hauke, Anonymous, Studio Orchestra, Henry Geehl, Lyceum Theater Orchestra, Lyceum Theatre Chorus, Frank Collinson, Evelyn Laye, George Walter &amp; Ronnie Munro</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						19</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Jube Classic</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>Richard Tauber, Franz Lehár, Wiener Philharmoniker, Erich Wolfgang Korngold, Odeon Kunstlerorchester, Ernst Hauke, Anonymous, Studio Orchestra, Henry Geehl, Lyceum Theater Orchestra, Lyceum Theatre Chorus, Frank Collinson, Evelyn Laye, George Walter &amp; Ronnie Munro</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/anonymous/id223827?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Richard Tauber Collection, Vol. 7: The Complete Lehár Studio Recordings III</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/richard-tauber-collection/id626800084?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1272.phobos.apple.com/us/r1000/113/Music2/v4/7e/1d/4d/7e1d4d5f-59a4-0896-9fcf-cbcf429ead1a/4016351012223.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a600.phobos.apple.com/us/r1000/113/Music2/v4/7e/1d/4d/7e1d4d5f-59a4-0896-9fcf-cbcf429ead1a/4016351012223.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1001.phobos.apple.com/us/r1000/113/Music2/v4/7e/1d/4d/7e1d4d5f-59a4-0896-9fcf-cbcf429ead1a/4016351012223.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Jube Classic</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Fantasy and Farewell - London Symphony Orchestra, Michael Francis &amp; Roger Myers</title>
+    <link>https://itunes.apple.com/album/fantasy-and-farewell/id624026157?uo=1&amp;v0=9988</link>
+    <description>Fantasy and Farewell by London Symphony Orchestra, Michael Francis &amp; Roger Myers</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/fantasy-and-farewell/id624026157?uo=1&v0=9988"><img border="0" src="http://a1462.phobos.apple.com/us/r1000/107/Music/v4/fd/3a/bd/fd3abdea-a9f5-88bb-399e-2c41c84390a9/013491344126.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/fantasy-and-farewell/id624026157?uo=1&v0=9988">Fantasy and Farewell</a></B><br>
+						<a href="https://itunes.apple.com/artist/london-symphony-orchestra/id29893?uo=1&v0=9988">London Symphony Orchestra, Michael Francis &amp; Roger Myers</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Delos</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>London Symphony Orchestra, Michael Francis &amp; Roger Myers</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/london-symphony-orchestra/id29893?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Fantasy and Farewell</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/fantasy-and-farewell/id624026157?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a133.phobos.apple.com/us/r1000/107/Music/v4/fd/3a/bd/fd3abdea-a9f5-88bb-399e-2c41c84390a9/013491344126.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1109.phobos.apple.com/us/r1000/107/Music/v4/fd/3a/bd/fd3abdea-a9f5-88bb-399e-2c41c84390a9/013491344126.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1462.phobos.apple.com/us/r1000/107/Music/v4/fd/3a/bd/fd3abdea-a9f5-88bb-399e-2c41c84390a9/013491344126.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Delos</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Monteverdi: Selva morale e spirituale, Vol. III - The Sixteen &amp; Harry Christophers</title>
+    <link>https://itunes.apple.com/album/monteverdi-selva-morale-e/id628242086?uo=1&amp;v0=9988</link>
+    <description>Monteverdi: Selva morale e spirituale, Vol. III by The Sixteen &amp; Harry Christophers</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/monteverdi-selva-morale-e/id628242086?uo=1&v0=9988"><img border="0" src="http://a1565.phobos.apple.com/us/r1000/106/Music2/v4/2a/3e/f6/2a3ef670-6e66-8e70-414b-bae9a96bd475/888002016614.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/monteverdi-selva-morale-e/id628242086?uo=1&v0=9988">Monteverdi: Selva morale e spirituale, Vol. III</a></B><br>
+						<a href="https://itunes.apple.com/artist/harry-christophers/id4315283?uo=1&v0=9988">The Sixteen &amp; Harry Christophers</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 The Sixteen Productions Ltd</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>The Sixteen &amp; Harry Christophers</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/harry-christophers/id4315283?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Monteverdi: Selva morale e spirituale, Vol. III</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/monteverdi-selva-morale-e/id628242086?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a540.phobos.apple.com/us/r1000/106/Music2/v4/2a/3e/f6/2a3ef670-6e66-8e70-414b-bae9a96bd475/888002016614.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1516.phobos.apple.com/us/r1000/106/Music2/v4/2a/3e/f6/2a3ef670-6e66-8e70-414b-bae9a96bd475/888002016614.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1565.phobos.apple.com/us/r1000/106/Music2/v4/2a/3e/f6/2a3ef670-6e66-8e70-414b-bae9a96bd475/888002016614.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 The Sixteen Productions Ltd</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Bruckner: Mass No. 2 in E Minor - Te Deum in C Major - Berliner Philharmoniker, Karl Forster &amp; St. Hedwig&#39;s Cathedral Choir</title>
+    <link>https://itunes.apple.com/album/bruckner-mass-no.-2-in-e-minor/id624907888?uo=1&amp;v0=9988</link>
+    <description>Bruckner: Mass No. 2 in E Minor - Te Deum in C Major by Berliner Philharmoniker, Karl Forster &amp; St. Hedwig&#39;s Cathedral Choir</description>
+    <pubDate>Fri, 19 Apr 2013 02:52:06 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/bruckner-mass-no.-2-in-e-minor/id624907888?uo=1&v0=9988"><img border="0" src="http://a1764.phobos.apple.com/us/r30/Music2/v4/82/2e/9a/822e9a00-dc20-3b8e-6355-b6fdcd9b0557/33389.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/bruckner-mass-no.-2-in-e-minor/id624907888?uo=1&v0=9988">Bruckner: Mass No. 2 in E Minor - Te Deum in C Major</a></B><br>
+						<a href="https://itunes.apple.com/artist/berliner-philharmoniker/id579853?uo=1&v0=9988">Berliner Philharmoniker, Karl Forster &amp; St. Hedwig's Cathedral Choir</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						7</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-classical/id5?uo=1&v0=9988">Classical</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$8.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Editions Audiovisuel Beulah</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-classical/id5?uo=1&amp;v0=9988">Classical</category>
+    <itms:artist>Berliner Philharmoniker, Karl Forster &amp; St. Hedwig&#39;s Cathedral Choir</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/berliner-philharmoniker/id579853?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Bruckner: Mass No. 2 in E Minor - Te Deum in C Major</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/bruckner-mass-no.-2-in-e-minor/id624907888?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$8.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a723.phobos.apple.com/us/r30/Music2/v4/82/2e/9a/822e9a00-dc20-3b8e-6355-b6fdcd9b0557/33389.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a51.phobos.apple.com/us/r30/Music2/v4/82/2e/9a/822e9a00-dc20-3b8e-6355-b6fdcd9b0557/33389.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1764.phobos.apple.com/us/r30/Music2/v4/82/2e/9a/822e9a00-dc20-3b8e-6355-b6fdcd9b0557/33389.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Editions Audiovisuel Beulah</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

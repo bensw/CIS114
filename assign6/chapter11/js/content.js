@@ -1,3 +1,9 @@
+/*Benjamin Swartz
+CIS 114 OL
+content.js
+Chapter 11
+Assignment 6
+4-19-2013*/
 // content.js
 
 // Establish functionality on window load:

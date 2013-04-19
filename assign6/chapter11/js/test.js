@@ -1,3 +1,9 @@
+/*Benjamin Swartz
+CIS 114 OL
+test.js
+Chapter 11
+Assignment 6
+4-19-2013*/
 // Script 11.3 - test.js
 // This script performs an Ajax request and updates the page with the response.
 
@@ -24,7 +30,7 @@ window.onload = function() {
 	
 				// XML version:
 				var data = ajax.responseXML;
-				console.log(data.documentElement.firstChild.nextSibling.firstChild.nodeValue);
+				// console.log(data.documentElement.firstChild.nextSibling.firstChild.nodeValue);
 				var chapters = data.getElementsByTagName('chapter');
 				var str = '';
 				for (var i = 0, count = chapters.length; i < count; i++) {

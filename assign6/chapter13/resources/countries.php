@@ -1,5 +1,11 @@
 <?php // countries.php
 // This script returns a list of matching countries for a given search term.
+// Benjamin Swartz
+// CIS 114 OL
+// countries.php
+// Chapter 13
+// Assignment 6
+// 4-19-2013
 
 // Script returns JSON:
 header('Content-Type: application/json');

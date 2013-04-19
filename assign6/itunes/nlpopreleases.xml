@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Benjamin Swartz
+CIS 114 OL
+nlpopreleases.xml
+Assignment 6
+4-19-2013 -->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 nieuwe iTunes-releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=34</link>
+    <atom:link href="http://itunes.apple.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143452/limit=10/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Nieuwste 10 releases van de dag</description>
+		<language>du</language>
+		<copyright>Copyright 2008 iTunes S.à r.l.
+
+		</copyright>
+		<lastBuildDate>Mon, 06 Apr 2009 09:12:41 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2009-04-06T09:12:41-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://itunes.apple.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Because (Radio Edit) - Single - Novastar</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308568172&amp;s=143452&amp;v0=9988</link>
+    <description>Because (Radio Edit) - Single door Novastar</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308568172&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/059/Music/e2/08/b7/mzi.tuhnnpiq.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308568172&s=143452&v0=9988">Because (Radio Edit) - Single</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=32183491&v0=9988">Novastar</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						april 06, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						0,99 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 The copyright in this sound recording is owned by EMI Music Belgium</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&amp;v0=9988">Pop</category>
+    <itms:artist>Novastar</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=32183491&amp;v0=9988</itms:artistLink>
+    <itms:album>Because (Radio Edit) - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308568172&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>0,99 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/059/Music/e2/08/b7/mzi.tuhnnpiq.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/059/Music/e2/08/b7/mzi.tuhnnpiq.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/059/Music/e2/08/b7/mzi.tuhnnpiq.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 The copyright in this sound recording is owned by EMI Music Belgium</itms:rights>
+    
+        <itms:releasedate>april 06, 2009</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Tunnelvision - Single - Novastar</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=309548057&amp;s=143452&amp;v0=9988</link>
+    <description>Tunnelvision - Single door Novastar</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=309548057&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/025/Music/d2/bb/87/mzi.sjnurjve.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=309548057&s=143452&v0=9988">Tunnelvision - Single</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=32183491&v0=9988">Novastar</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						april 06, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						0,99 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 The copyright in this sound recording is owned by EMI Music Belgium</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&amp;v0=9988">Pop</category>
+    <itms:artist>Novastar</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=32183491&amp;v0=9988</itms:artistLink>
+    <itms:album>Tunnelvision - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=309548057&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>0,99 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/025/Music/d2/bb/87/mzi.sjnurjve.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/025/Music/d2/bb/87/mzi.sjnurjve.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/025/Music/d2/bb/87/mzi.sjnurjve.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 The copyright in this sound recording is owned by EMI Music Belgium</itms:rights>
+    
+        <itms:releasedate>april 06, 2009</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>April - Bløf</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307683788&amp;s=143452&amp;v0=9988</link>
+    <description>April door Bløf</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307683788&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/029/Music/bb/6a/95/mzi.ofqeobtt.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307683788&s=143452&v0=9988">April</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=16334606&v0=9988">Bløf</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						april 03, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						9,99 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 The copyright in this sound recording is owned by EMI Music Netherlands BV</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&amp;v0=9988">Pop</category>
+    <itms:artist>Bløf</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=16334606&amp;v0=9988</itms:artistLink>
+    <itms:album>April</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307683788&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>9,99 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/029/Music/bb/6a/95/mzi.ofqeobtt.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/029/Music/bb/6a/95/mzi.ofqeobtt.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/029/Music/bb/6a/95/mzi.ofqeobtt.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 The copyright in this sound recording is owned by EMI Music Netherlands BV</itms:rights>
+    
+        <itms:releasedate>april 03, 2009</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Sweet Goodbyes - Single - Krezip</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=309857522&amp;s=143452&amp;v0=9988</link>
+    <description>Sweet Goodbyes - Single door Krezip</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=309857522&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/052/Music/99/c8/76/mzi.wxurevnz.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=309857522&s=143452&v0=9988">Sweet Goodbyes - Single</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=4513722&v0=9988">Krezip</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						april 03, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						1,98 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 Sony Music Entertainment Netherlands BV</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&amp;v0=9988">Pop</category>
+    <itms:artist>Krezip</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=4513722&amp;v0=9988</itms:artistLink>
+    <itms:album>Sweet Goodbyes - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=309857522&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>1,98 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/052/Music/99/c8/76/mzi.wxurevnz.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/052/Music/99/c8/76/mzi.wxurevnz.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/052/Music/99/c8/76/mzi.wxurevnz.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 Sony Music Entertainment Netherlands BV</itms:rights>
+    
+        <itms:releasedate>april 03, 2009</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>April - Bløf</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308639305&amp;s=143452&amp;v0=9988</link>
+    <description>April door Bløf</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308639305&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/017/Music/4e/8b/83/mzi.roiykuhg.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308639305&s=143452&v0=9988">April</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=16334606&v0=9988">Bløf</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						april 03, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						9,99 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 The copyright in this sound recording is owned by EMI Music Netherlands BV</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&amp;v0=9988">Pop</category>
+    <itms:artist>Bløf</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=16334606&amp;v0=9988</itms:artistLink>
+    <itms:album>April</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308639305&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>9,99 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/017/Music/4e/8b/83/mzi.roiykuhg.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/017/Music/4e/8b/83/mzi.roiykuhg.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/017/Music/4e/8b/83/mzi.roiykuhg.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 The copyright in this sound recording is owned by EMI Music Netherlands BV</itms:rights>
+    
+        <itms:releasedate>april 03, 2009</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Niemand in de stad (Deluxe Version) - De Dijk</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=310430339&amp;s=143452&amp;v0=9988</link>
+    <description>Niemand in de stad (Deluxe Version) door De Dijk</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=310430339&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r2000/012/Music/ca/32/46/mzi.jcxjhokb.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=310430339&s=143452&v0=9988">Niemand in de stad (Deluxe Version)</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=24054587&v0=9988">De Dijk</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						april 03, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						27</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						15,99 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 Universal Music B.V., The Netherlands</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&amp;v0=9988">Pop</category>
+    <itms:artist>De Dijk</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=24054587&amp;v0=9988</itms:artistLink>
+    <itms:album>Niemand in de stad (Deluxe Version)</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=310430339&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>15,99 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r2000/012/Music/ca/32/46/mzi.jcxjhokb.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r2000/012/Music/ca/32/46/mzi.jcxjhokb.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r2000/012/Music/ca/32/46/mzi.jcxjhokb.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 Universal Music B.V., The Netherlands</itms:rights>
+    
+        <itms:releasedate>april 03, 2009</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Hold On - Single - Alain Clark</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=310700162&amp;s=143452&amp;v0=9988</link>
+    <description>Hold On - Single door Alain Clark</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=310700162&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/002/Music/23/f1/2f/mzi.dptktdzo.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=310700162&s=143452&v0=9988">Hold On - Single</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=26386895&v0=9988">Alain Clark</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						april 03, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						2</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						1,98 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 AtotheC Music under exclusive license to 8ball Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&amp;v0=9988">Pop</category>
+    <itms:artist>Alain Clark</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=26386895&amp;v0=9988</itms:artistLink>
+    <itms:album>Hold On - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=310700162&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>1,98 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/002/Music/23/f1/2f/mzi.dptktdzo.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/002/Music/23/f1/2f/mzi.dptktdzo.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/002/Music/23/f1/2f/mzi.dptktdzo.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 AtotheC Music under exclusive license to 8ball Music</itms:rights>
+    
+        <itms:releasedate>april 03, 2009</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Great Pianists: Rachmaninov - Piano Solo Recordings, Vol. 1 (Victor Recordings 1925-1942) - Sergei Rachmaninov</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307948543&amp;s=143452&amp;v0=9988</link>
+    <description>Great Pianists: Rachmaninov - Piano Solo Recordings, Vol. 1 (Victor Recordings 1925-1942) door Sergei Rachmaninov</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307948543&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/051/Music/9c/5d/ca/mzi.ikcnozkx.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307948543&s=143452&v0=9988">Great Pianists: Rachmaninov - Piano Solo Recordings, Vol. 1 (Victor Recordings 1925-1942)</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=4341619&v0=9988">Sergei Rachmaninov</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						maart 31, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						34</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=5&v0=9988">Klassiek</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						9,99 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 Naxos</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=5&amp;v0=9988">Klassiek</category>
+    <itms:artist>Sergei Rachmaninov</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=4341619&amp;v0=9988</itms:artistLink>
+    <itms:album>Great Pianists: Rachmaninov - Piano Solo Recordings, Vol. 1 (Victor Recordings 1925-1942)</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307948543&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>9,99 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/051/Music/9c/5d/ca/mzi.ikcnozkx.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/051/Music/9c/5d/ca/mzi.ikcnozkx.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/051/Music/9c/5d/ca/mzi.ikcnozkx.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 Naxos</itms:rights>
+    
+        <itms:releasedate>maart 31, 2009</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Live In London - Leonard Cohen</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307746167&amp;s=143452&amp;v0=9988</link>
+    <description>Live In London door Leonard Cohen</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307746167&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/043/Music/84/d7/87/mzi.saafxovb.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307746167&s=143452&v0=9988">Live In London</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=485677&v0=9988">Leonard Cohen</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						maart 31, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						27</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=21&v0=9988">Rock</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						12,99 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 Sony Music Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=21&amp;v0=9988">Rock</category>
+    <itms:artist>Leonard Cohen</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=485677&amp;v0=9988</itms:artistLink>
+    <itms:album>Live In London</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=307746167&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>12,99 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/043/Music/84/d7/87/mzi.saafxovb.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/043/Music/84/d7/87/mzi.saafxovb.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/043/Music/84/d7/87/mzi.saafxovb.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 Sony Music Entertainment</itms:rights>
+    
+        <itms:releasedate>maart 31, 2009</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Free - Gavin DeGraw</title>
+    <link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308193167&amp;s=143452&amp;v0=9988</link>
+    <description>Free door Gavin DeGraw</description>
+    <pubDate>Mon, 06 Apr 2009 09:12:41 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308193167&s=143452&v0=9988"><img border="0" src="http://a1.phobos.apple.com/us/r1000/049/Music/72/c6/7d/mzi.xcxmofsh.100x100-75.jpg"></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://itunes.apple.com/images/spacer.gif"></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308193167&s=143452&v0=9988">Free</a></B><br>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=1776919&v0=9988">Gavin DeGraw</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Releasedatum:</B>
+						maart 31, 2009<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Totaal aantal nummers:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&v0=9988">Pop</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Prijs:</B>
+						9,99 €</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2009 RCA/JIVE Label Group, a unit of Sony Music Entertainment</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewGenre?id=14&amp;v0=9988">Pop</category>
+    <itms:artist>Gavin DeGraw</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewArtist?id=1776919&amp;v0=9988</itms:artistLink>
+    <itms:album>Free</itms:album>
+    <itms:albumLink>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=308193167&amp;s=143452&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>9,99 €</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.phobos.apple.com/us/r1000/049/Music/72/c6/7d/mzi.xcxmofsh.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.phobos.apple.com/us/r1000/049/Music/72/c6/7d/mzi.xcxmofsh.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.phobos.apple.com/us/r1000/049/Music/72/c6/7d/mzi.xcxmofsh.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2009 RCA/JIVE Label Group, a unit of Sony Music Entertainment</itms:rights>
+    
+        <itms:releasedate>maart 31, 2009</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

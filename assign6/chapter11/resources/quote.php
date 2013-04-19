@@ -1,5 +1,11 @@
-<?php # Script 13.3 - quote.php
 
+<?php # Script 13.3 - quote.php
+// Benjamin Swartz
+// CIS 114 OL
+// quote.php
+// Chapter 11
+// Assignment 6
+// 4-19-2013
 // Set the content type:
 header('Content-Type: application/json');
 

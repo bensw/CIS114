@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Benjamin Swartz
+CIS 114 OL
+usaworld.xml
+Assignment 6
+4-19-2013 -->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=20</link>
+    <atom:link href="http://r.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=19/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in World</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 16 Mar 2012 09:40:57 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2012-03-16T09:40:57-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>http://r.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>The Tel Aviv Session - The Touré-Raichel Collective</title>
+    <link>http://itunes.apple.com/preorder/the-tel-aviv-session/id509266180?uo=1&amp;v0=9988</link>
+    <description>The Tel Aviv Session by The Touré-Raichel Collective</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/preorder/the-tel-aviv-session/id509266180?uo=1&v0=9988"><img border="0" src="http://a2.mzstatic.com/us/r30/Music/v4/ce/fb/7d/cefb7d40-371d-e322-76c1-c719de168c01/cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/preorder/the-tel-aviv-session/id509266180?uo=1&v0=9988">The Tel Aviv Session</a></B><br>
+						<a href="http://itunes.apple.com/artist/the-toure-raichel-collective/id509259549?uo=1&v0=9988">The Touré-Raichel Collective</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Expected Release Date:</B>
+						March 27, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2012 Cumbancha</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>The Touré-Raichel Collective</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/the-toure-raichel-collective/id509259549?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Tel Aviv Session</itms:album>
+    <itms:albumLink>http://itunes.apple.com/preorder/the-tel-aviv-session/id509266180?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a4.mzstatic.com/us/r30/Music/v4/ce/fb/7d/cefb7d40-371d-e322-76c1-c719de168c01/cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a5.mzstatic.com/us/r30/Music/v4/ce/fb/7d/cefb7d40-371d-e322-76c1-c719de168c01/cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a2.mzstatic.com/us/r30/Music/v4/ce/fb/7d/cefb7d40-371d-e322-76c1-c719de168c01/cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2012 Cumbancha</itms:rights>
+    
+        <itms:releasedate>March 27, 2012</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Rocket Juice &amp; The Moon - Rocket Juice &amp; The Moon</title>
+    <link>http://itunes.apple.com/preorder/rocket-juice-the-moon/id506660512?uo=1&amp;v0=9988</link>
+    <description>Rocket Juice &amp; The Moon by Rocket Juice &amp; The Moon</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/preorder/rocket-juice-the-moon/id506660512?uo=1&v0=9988"><img border="0" src="http://a1.mzstatic.com/us/r30/Music/fd/4e/28/mzi.kktzyqwg.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/preorder/rocket-juice-the-moon/id506660512?uo=1&v0=9988">Rocket Juice &amp; The Moon</a></B><br>
+						<a href="http://itunes.apple.com/artist/rocket-juice-the-moon/id505432180?uo=1&v0=9988">Rocket Juice &amp; The Moon</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Expected Release Date:</B>
+						March 23, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2012 Honest Jon's Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Rocket Juice &amp; The Moon</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/rocket-juice-the-moon/id505432180?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Rocket Juice &amp; The Moon</itms:album>
+    <itms:albumLink>http://itunes.apple.com/preorder/rocket-juice-the-moon/id506660512?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a5.mzstatic.com/us/r30/Music/fd/4e/28/mzi.kktzyqwg.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.mzstatic.com/us/r30/Music/fd/4e/28/mzi.kktzyqwg.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1.mzstatic.com/us/r30/Music/fd/4e/28/mzi.kktzyqwg.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2012 Honest Jon&#39;s Records</itms:rights>
+    
+        <itms:releasedate>March 23, 2012</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Traveller - Anoushka Shankar</title>
+    <link>http://itunes.apple.com/preorder/traveller/id506402460?uo=1&amp;v0=9988</link>
+    <description>Traveller by Anoushka Shankar</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/preorder/traveller/id506402460?uo=1&v0=9988"><img border="0" src="http://a5.mzstatic.com/us/r30/Music/83/90/18/mzi.ybcrkanv.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/preorder/traveller/id506402460?uo=1&v0=9988">Traveller</a></B><br>
+						<a href="http://itunes.apple.com/artist/anoushka-shankar/id14825884?uo=1&v0=9988">Anoushka Shankar</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Expected Release Date:</B>
+						March 20, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$11.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						(P) 2012 Deutsche Grammophon GmbH, Berlin</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Anoushka Shankar</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/anoushka-shankar/id14825884?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Traveller</itms:album>
+    <itms:albumLink>http://itunes.apple.com/preorder/traveller/id506402460?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$11.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a3.mzstatic.com/us/r30/Music/83/90/18/mzi.ybcrkanv.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r30/Music/83/90/18/mzi.ybcrkanv.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a5.mzstatic.com/us/r30/Music/83/90/18/mzi.ybcrkanv.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>(P) 2012 Deutsche Grammophon GmbH, Berlin</itms:rights>
+    
+        <itms:releasedate>March 20, 2012</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Jean-Michel Rotin : L&#39;intégrale - Jean-Michel Rotin</title>
+    <link>http://itunes.apple.com/album/jean-michel-rotin-lintegrale/id364697246?uo=1&amp;v0=9988</link>
+    <description>Jean-Michel Rotin : L&#39;intégrale by Jean-Michel Rotin</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/jean-michel-rotin-lintegrale/id364697246?uo=1&v0=9988"><img border="0" src="http://a4.mzstatic.com/us/r1000/025/Features/ba/4b/ff/dj.jvsfbxjx.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/jean-michel-rotin-lintegrale/id364697246?uo=1&v0=9988">Jean-Michel Rotin : L'intégrale</a></B><br>
+						<a href="http://itunes.apple.com/artist/jean-michel-rotin/id129846728?uo=1&v0=9988">Jean-Michel Rotin</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 16, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						37</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$24.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2010 Dune Productions</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Jean-Michel Rotin</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/jean-michel-rotin/id129846728?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Jean-Michel Rotin : L&#39;intégrale</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/jean-michel-rotin-lintegrale/id364697246?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$24.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a3.mzstatic.com/us/r1000/025/Features/ba/4b/ff/dj.jvsfbxjx.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r1000/025/Features/ba/4b/ff/dj.jvsfbxjx.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a4.mzstatic.com/us/r1000/025/Features/ba/4b/ff/dj.jvsfbxjx.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2010 Dune Productions</itms:rights>
+    
+        <itms:releasedate>March 16, 2012</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Sarajevo, Skenderija / Live - Mostar Sevdah Reunion</title>
+    <link>http://itunes.apple.com/album/sarajevo-skenderija-live/id510244363?uo=1&amp;v0=9988</link>
+    <description>Sarajevo, Skenderija / Live by Mostar Sevdah Reunion</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/sarajevo-skenderija-live/id510244363?uo=1&v0=9988"><img border="0" src="http://a5.mzstatic.com/us/r30/Music/v4/a2/6f/89/a26f89d6-a437-19d1-3a7b-d358439b154c/859707838559_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/sarajevo-skenderija-live/id510244363?uo=1&v0=9988">Sarajevo, Skenderija / Live</a></B><br>
+						<a href="http://itunes.apple.com/artist/mostar-sevdah-reunion/id25511209?uo=1&v0=9988">Mostar Sevdah Reunion</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 15, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						24</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2012 Mostar Sevdah Reunion</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Mostar Sevdah Reunion</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/mostar-sevdah-reunion/id25511209?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Sarajevo, Skenderija / Live</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/sarajevo-skenderija-live/id510244363?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a2.mzstatic.com/us/r30/Music/v4/a2/6f/89/a26f89d6-a437-19d1-3a7b-d358439b154c/859707838559_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a5.mzstatic.com/us/r30/Music/v4/a2/6f/89/a26f89d6-a437-19d1-3a7b-d358439b154c/859707838559_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a5.mzstatic.com/us/r30/Music/v4/a2/6f/89/a26f89d6-a437-19d1-3a7b-d358439b154c/859707838559_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2012 Mostar Sevdah Reunion</itms:rights>
+    
+        <itms:releasedate>March 15, 2012</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>World Famous - Panjabi Hit Squad</title>
+    <link>http://itunes.apple.com/album/world-famous/id509860200?uo=1&amp;v0=9988</link>
+    <description>World Famous by Panjabi Hit Squad</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/world-famous/id509860200?uo=1&v0=9988"><img border="0" src="http://a4.mzstatic.com/us/r30/Music/v4/c1/93/87/c19387ce-3ab5-f42b-7d65-8a6c933228d7/886788671959.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/world-famous/id509860200?uo=1&v0=9988">World Famous</a></B><br>
+						<a href="http://itunes.apple.com/artist/panjabi-hit-squad/id142413133?uo=1&v0=9988">Panjabi Hit Squad</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 15, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						10</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.90</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Major Moves</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Panjabi Hit Squad</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/panjabi-hit-squad/id142413133?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>World Famous</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/world-famous/id509860200?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.90</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a3.mzstatic.com/us/r30/Music/v4/c1/93/87/c19387ce-3ab5-f42b-7d65-8a6c933228d7/886788671959.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a4.mzstatic.com/us/r30/Music/v4/c1/93/87/c19387ce-3ab5-f42b-7d65-8a6c933228d7/886788671959.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a4.mzstatic.com/us/r30/Music/v4/c1/93/87/c19387ce-3ab5-f42b-7d65-8a6c933228d7/886788671959.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Major Moves</itms:rights>
+    
+        <itms:releasedate>March 15, 2012</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>All the Way Home - Cathy Jordan</title>
+    <link>http://itunes.apple.com/album/all-the-way-home/id503660699?uo=1&amp;v0=9988</link>
+    <description>All the Way Home by Cathy Jordan</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/all-the-way-home/id503660699?uo=1&v0=9988"><img border="0" src="http://a2.mzstatic.com/us/r30/Music/af/9f/10/mzi.eyfsibkj.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/all-the-way-home/id503660699?uo=1&v0=9988">All the Way Home</a></B><br>
+						<a href="http://itunes.apple.com/artist/cathy-jordan/id330217308?uo=1&v0=9988">Cathy Jordan</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 13, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						11</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2012 Blix Street Records, Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Cathy Jordan</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/cathy-jordan/id330217308?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>All the Way Home</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/all-the-way-home/id503660699?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a5.mzstatic.com/us/r30/Music/af/9f/10/mzi.eyfsibkj.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1.mzstatic.com/us/r30/Music/af/9f/10/mzi.eyfsibkj.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a2.mzstatic.com/us/r30/Music/af/9f/10/mzi.eyfsibkj.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2012 Blix Street Records, Inc.</itms:rights>
+    
+        <itms:releasedate>March 13, 2012</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Bittoo Boss - Raghav Sachar</title>
+    <link>http://itunes.apple.com/album/bittoo-boss/id510302339?uo=1&amp;v0=9988</link>
+    <description>Bittoo Boss by Raghav Sachar</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/bittoo-boss/id510302339?uo=1&v0=9988"><img border="0" src="http://a4.mzstatic.com/us/r30/Music/v4/2d/85/f1/2d85f1dc-6fbe-7442-5794-2de674390894/SFCD_1-1780.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/bittoo-boss/id510302339?uo=1&v0=9988">Bittoo Boss</a></B><br>
+						<a href="http://itunes.apple.com/artist/raghav-sachar/id198585584?uo=1&v0=9988">Raghav Sachar</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 13, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						8</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$7.92</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						Super Cassettes Industries Ltd.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Raghav Sachar</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/raghav-sachar/id198585584?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Bittoo Boss</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/bittoo-boss/id510302339?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$7.92</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a4.mzstatic.com/us/r30/Music/v4/2d/85/f1/2d85f1dc-6fbe-7442-5794-2de674390894/SFCD_1-1780.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a5.mzstatic.com/us/r30/Music/v4/2d/85/f1/2d85f1dc-6fbe-7442-5794-2de674390894/SFCD_1-1780.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a4.mzstatic.com/us/r30/Music/v4/2d/85/f1/2d85f1dc-6fbe-7442-5794-2de674390894/SFCD_1-1780.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>Super Cassettes Industries Ltd.</itms:rights>
+    
+        <itms:releasedate>March 13, 2012</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Still Married - Single - L2</title>
+    <link>http://itunes.apple.com/album/still-married-single/id510145003?uo=1&amp;v0=9988</link>
+    <description>Still Married - Single by L2</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/still-married-single/id510145003?uo=1&v0=9988"><img border="0" src="http://a2.mzstatic.com/us/r30/Music/v4/72/7b/9d/727b9dcb-e674-36b0-54df-3a7146556fb3/859707862622_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/still-married-single/id510145003?uo=1&v0=9988">Still Married - Single</a></B><br>
+						<a href="http://itunes.apple.com/artist/l2/id316290451?uo=1&v0=9988">L2</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 13, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2012 ForeverL2Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>L2</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/l2/id316290451?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Still Married - Single</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/still-married-single/id510145003?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a5.mzstatic.com/us/r30/Music/v4/72/7b/9d/727b9dcb-e674-36b0-54df-3a7146556fb3/859707862622_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a3.mzstatic.com/us/r30/Music/v4/72/7b/9d/727b9dcb-e674-36b0-54df-3a7146556fb3/859707862622_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a2.mzstatic.com/us/r30/Music/v4/72/7b/9d/727b9dcb-e674-36b0-54df-3a7146556fb3/859707862622_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2012 ForeverL2Music</itms:rights>
+    
+        <itms:releasedate>March 13, 2012</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Bourbon &amp; Rosewater - Jerry Douglas, V. M. Bhatt &amp; Edgar Mayer</title>
+    <link>http://itunes.apple.com/album/bourbon-rosewater/id490738259?uo=1&amp;v0=9988</link>
+    <description>Bourbon &amp; Rosewater by Jerry Douglas, V. M. Bhatt &amp; Edgar Mayer</description>
+    <pubDate>Fri, 16 Mar 2012 09:40:57 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="http://itunes.apple.com/album/bourbon-rosewater/id490738259?uo=1&v0=9988"><img border="0" src="http://a2.mzstatic.com/us/r30/Music/67/80/9c/mzi.rxfhajhe.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="http://r.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="http://itunes.apple.com/album/bourbon-rosewater/id490738259?uo=1&v0=9988">Bourbon &amp; Rosewater</a></B><br>
+						<a href="http://itunes.apple.com/artist/edgar-mayer/id490738265?uo=1&v0=9988">Jerry Douglas, V. M. Bhatt &amp; Edgar Mayer</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						March 13, 2012<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						8</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="http://itunes.apple.com/genre/music-world/id19?uo=1&v0=9988">World</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$7.92</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						2011 Water Lily Acoustics</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="http://itunes.apple.com/genre/music-world/id19?uo=1&amp;v0=9988">World</category>
+    <itms:artist>Jerry Douglas, V. M. Bhatt &amp; Edgar Mayer</itms:artist>
+    <itms:artistLink>http://itunes.apple.com/artist/edgar-mayer/id490738265?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Bourbon &amp; Rosewater</itms:album>
+    <itms:albumLink>http://itunes.apple.com/album/bourbon-rosewater/id490738259?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$7.92</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1.mzstatic.com/us/r30/Music/67/80/9c/mzi.rxfhajhe.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a2.mzstatic.com/us/r30/Music/67/80/9c/mzi.rxfhajhe.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a2.mzstatic.com/us/r30/Music/67/80/9c/mzi.rxfhajhe.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>2011 Water Lily Acoustics</itms:rights>
+    
+        <itms:releasedate>March 13, 2012</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>

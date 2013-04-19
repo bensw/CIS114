@@ -1,3 +1,9 @@
+/*Benjamin Swartz
+CIS 114 OL
+quote.js
+Chapter 11
+Assignment 6
+4-19-2013*/
 // Script 10.3 - os.js
 // This script creates two linked select menus.
 

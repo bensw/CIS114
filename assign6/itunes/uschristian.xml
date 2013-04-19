@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Benjamin Swartz
+CIS 114 OL
+uschristian.xml
+Assignment 6
+4-19-2013 -->
+<rss version="2.0"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itms="http://phobos.apple.com/rss/1.0/modules/itms/">
+
+	<channel>
+		<title>iTunes 10 New Releases</title>
+		<link>http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewNewReleases?pageType=newReleases&amp;id=25</link>
+    <atom:link href="https://s.mzstatic.com/WebObjects/MZStore.woa/wpa/MRSS/newreleases/sf=143441/limit=10/genre=22/rss.xml" rel="self" type="application/rss+xml" />
+		<description>iTunes Store: Today's 10 Newest Releases in Christian &amp; Gospel</description>
+		<language>en</language>
+		<copyright>Copyright 2008 Apple Inc.
+
+		</copyright>
+		<lastBuildDate>Fri, 19 Apr 2013 02:51:53 -0700</lastBuildDate>
+		<generator>iTunes Music Store RSS v1.0.0</generator>
+		<webMaster>musicstore@apple.com (iTunes Music Store)</webMaster>
+		<ttl>240</ttl>
+
+		<dc:creator>iTunes Music Store</dc:creator>
+		<dc:date>2013-04-19T02:51:53-07:00</dc:date>
+
+		<sy:updatePeriod>hourly</sy:updatePeriod>
+		<sy:updateFrequency>1</sy:updateFrequency>
+		<sy:updateBase>2003-09-01T12:00+00:00</sy:updateBase>
+		<image>
+			<url>https://s.mzstatic.com/images/rss/badge.gif</url>
+			<link>http://www.apple.com/itunes/</link>
+			<title>iTunes Music Store</title>
+			<height>31</height>
+			<width>88</width>
+		</image>
+		<item>
+    <title>Praise You &#39;Til I Die - MVMNT Band</title>
+    <link>https://itunes.apple.com/album/praise-you-til-i-die/id624843990?uo=1&amp;v0=9988</link>
+    <description>Praise You &#39;Til I Die by MVMNT Band</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/praise-you-til-i-die/id624843990?uo=1&v0=9988"><img border="0" src="http://a55.phobos.apple.com/us/r30/Music2/v4/db/66/b9/db66b923-5d38-0860-bba4-edad7245fa8a/MVMNT_BAND.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/praise-you-til-i-die/id624843990?uo=1&v0=9988">Praise You 'Til I Die</a></B><br>
+						<a href="https://itunes.apple.com/artist/mvmnt-band/id484356268?uo=1&v0=9988">MVMNT Band</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 3, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						12</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$10.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Wellhouse Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>MVMNT Band</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/mvmnt-band/id484356268?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Praise You &#39;Til I Die</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/praise-you-til-i-die/id624843990?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$10.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1686.phobos.apple.com/us/r30/Music2/v4/db/66/b9/db66b923-5d38-0860-bba4-edad7245fa8a/MVMNT_BAND.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1014.phobos.apple.com/us/r30/Music2/v4/db/66/b9/db66b923-5d38-0860-bba4-edad7245fa8a/MVMNT_BAND.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a55.phobos.apple.com/us/r30/Music2/v4/db/66/b9/db66b923-5d38-0860-bba4-edad7245fa8a/MVMNT_BAND.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Wellhouse Records</itms:rights>
+    
+        <itms:releasedate>April 3, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Break the Fall  EP - Joel Auge</title>
+    <link>https://itunes.apple.com/album/break-the-fall-ep/id631546512?uo=1&amp;v0=9988</link>
+    <description>Break the Fall  EP by Joel Auge</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/break-the-fall-ep/id631546512?uo=1&v0=9988"><img border="0" src="http://a1576.phobos.apple.com/us/r30/Music/v4/93/68/67/9368673b-80b5-4771-4ddc-2a8ae9c93c70/884501900720_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/break-the-fall-ep/id631546512?uo=1&v0=9988">Break the Fall  EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/joel-auge/id278869279?uo=1&v0=9988">Joel Auge</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 3, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						6</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$5.94</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Reflecti.co</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>Joel Auge</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/joel-auge/id278869279?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Break the Fall  EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/break-the-fall-ep/id631546512?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$5.94</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1175.phobos.apple.com/us/r30/Music/v4/93/68/67/9368673b-80b5-4771-4ddc-2a8ae9c93c70/884501900720_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a151.phobos.apple.com/us/r30/Music/v4/93/68/67/9368673b-80b5-4771-4ddc-2a8ae9c93c70/884501900720_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1576.phobos.apple.com/us/r30/Music/v4/93/68/67/9368673b-80b5-4771-4ddc-2a8ae9c93c70/884501900720_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Reflecti.co</itms:rights>
+    
+        <itms:releasedate>April 3, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Whom Shall I Fear (God of Angel Armies) EP (Performance Tracks) - EP - Chris Tomlin</title>
+    <link>https://itunes.apple.com/album/whom-shall-i-fear-god-angel/id624918188?uo=1&amp;v0=9988</link>
+    <description>Whom Shall I Fear (God of Angel Armies) EP (Performance Tracks) - EP by Chris Tomlin</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/whom-shall-i-fear-god-angel/id624918188?uo=1&v0=9988"><img border="0" src="http://a463.phobos.apple.com/us/r1000/083/Music/v4/28/62/b5/2862b53c-e7d2-08b4-c1b1-b04e8ff44757/UMG_cvrart_05099995860251_01_RGB72_1500x1500_13UMGIM26170.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/whom-shall-i-fear-god-angel/id624918188?uo=1&v0=9988">Whom Shall I Fear (God of Angel Armies) EP (Performance Tracks) - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/chris-tomlin/id569510?uo=1&v0=9988">Chris Tomlin</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						5</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$4.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Sixstepsrecords/Sparrow Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>Chris Tomlin</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/chris-tomlin/id569510?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Whom Shall I Fear (God of Angel Armies) EP (Performance Tracks) - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/whom-shall-i-fear-god-angel/id624918188?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$4.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1310.phobos.apple.com/us/r1000/083/Music/v4/28/62/b5/2862b53c-e7d2-08b4-c1b1-b04e8ff44757/UMG_cvrart_05099995860251_01_RGB72_1500x1500_13UMGIM26170.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a638.phobos.apple.com/us/r1000/083/Music/v4/28/62/b5/2862b53c-e7d2-08b4-c1b1-b04e8ff44757/UMG_cvrart_05099995860251_01_RGB72_1500x1500_13UMGIM26170.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a463.phobos.apple.com/us/r1000/083/Music/v4/28/62/b5/2862b53c-e7d2-08b4-c1b1-b04e8ff44757/UMG_cvrart_05099995860251_01_RGB72_1500x1500_13UMGIM26170.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Sixstepsrecords/Sparrow Records</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>If He Did It Before....Same God - Single - Tye Tribbett</title>
+    <link>https://itunes.apple.com/album/if-he-did-it-before....same/id624950661?uo=1&amp;v0=9988</link>
+    <description>If He Did It Before....Same God - Single by Tye Tribbett</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/if-he-did-it-before....same/id624950661?uo=1&v0=9988"><img border="0" src="http://a519.phobos.apple.com/us/r1000/116/Music/v4/14/86/60/148660b4-1522-68a8-32bb-3d7c21aca6b1/UMG_cvrart_00602537365142_01_RGB72_1500x1500_13UMGIM26851.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/if-he-did-it-before....same/id624950661?uo=1&v0=9988">If He Did It Before....Same God - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/tye-tribbett/id52300663?uo=1&v0=9988">Tye Tribbett</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$1.29</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Motown Gospel</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>Tye Tribbett</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/tye-tribbett/id52300663?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>If He Did It Before....Same God - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/if-he-did-it-before....same/id624950661?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$1.29</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a118.phobos.apple.com/us/r1000/116/Music/v4/14/86/60/148660b4-1522-68a8-32bb-3d7c21aca6b1/UMG_cvrart_00602537365142_01_RGB72_1500x1500_13UMGIM26851.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1094.phobos.apple.com/us/r1000/116/Music/v4/14/86/60/148660b4-1522-68a8-32bb-3d7c21aca6b1/UMG_cvrart_00602537365142_01_RGB72_1500x1500_13UMGIM26851.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a519.phobos.apple.com/us/r1000/116/Music/v4/14/86/60/148660b4-1522-68a8-32bb-3d7c21aca6b1/UMG_cvrart_00602537365142_01_RGB72_1500x1500_13UMGIM26851.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Motown Gospel</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>You Are EP (Performance Tracks) - EP - Colton Dixon</title>
+    <link>https://itunes.apple.com/album/you-are-ep-performance-tracks/id624924616?uo=1&amp;v0=9988</link>
+    <description>You Are EP (Performance Tracks) - EP by Colton Dixon</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/you-are-ep-performance-tracks/id624924616?uo=1&v0=9988"><img border="0" src="http://a1060.phobos.apple.com/us/r30/Music2/v4/53/a0/9b/53a09bfd-f8e8-8bf7-6653-366644be8495/UMG_cvrart_05099995860350_01_RGB72_1500x1500_13UMGIM26169.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/you-are-ep-performance-tracks/id624924616?uo=1&v0=9988">You Are EP (Performance Tracks) - EP</a></B><br>
+						<a href="https://itunes.apple.com/artist/colton-dixon/id508624868?uo=1&v0=9988">Colton Dixon</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						5</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$4.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 19 Recordings, Inc. under exclusive license to Sparrow Records</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>Colton Dixon</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/colton-dixon/id508624868?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>You Are EP (Performance Tracks) - EP</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/you-are-ep-performance-tracks/id624924616?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$4.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1651.phobos.apple.com/us/r30/Music2/v4/53/a0/9b/53a09bfd-f8e8-8bf7-6653-366644be8495/UMG_cvrart_05099995860350_01_RGB72_1500x1500_13UMGIM26169.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a627.phobos.apple.com/us/r30/Music2/v4/53/a0/9b/53a09bfd-f8e8-8bf7-6653-366644be8495/UMG_cvrart_05099995860350_01_RGB72_1500x1500_13UMGIM26169.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1060.phobos.apple.com/us/r30/Music2/v4/53/a0/9b/53a09bfd-f8e8-8bf7-6653-366644be8495/UMG_cvrart_05099995860350_01_RGB72_1500x1500_13UMGIM26169.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 19 Recordings, Inc. under exclusive license to Sparrow Records</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>I Won&#39;t Let Go - Single - Tyrone Powell</title>
+    <link>https://itunes.apple.com/album/i-wont-let-go-single/id628453676?uo=1&amp;v0=9988</link>
+    <description>I Won&#39;t Let Go - Single by Tyrone Powell</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/i-wont-let-go-single/id628453676?uo=1&v0=9988"><img border="0" src="http://a1433.phobos.apple.com/us/r30/Music2/v4/e4/55/b7/e455b79d-0171-7465-2614-9e05b3ad6e5d/887516940279.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/i-wont-let-go-single/id628453676?uo=1&v0=9988">I Won't Let Go - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/tyrone-powell/id271191593?uo=1&v0=9988">Tyrone Powell</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Tyrone Powell</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>Tyrone Powell</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/tyrone-powell/id271191593?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>I Won&#39;t Let Go - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/i-wont-let-go-single/id628453676?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1016.phobos.apple.com/us/r30/Music2/v4/e4/55/b7/e455b79d-0171-7465-2614-9e05b3ad6e5d/887516940279.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1992.phobos.apple.com/us/r30/Music2/v4/e4/55/b7/e455b79d-0171-7465-2614-9e05b3ad6e5d/887516940279.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1433.phobos.apple.com/us/r30/Music2/v4/e4/55/b7/e455b79d-0171-7465-2614-9e05b3ad6e5d/887516940279.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Tyrone Powell</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Victory - Single - Lifepoint Worship</title>
+    <link>https://itunes.apple.com/album/the-victory-single/id630735886?uo=1&amp;v0=9988</link>
+    <description>The Victory - Single by Lifepoint Worship</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/the-victory-single/id630735886?uo=1&v0=9988"><img border="0" src="http://a740.phobos.apple.com/us/r30/Music2/v4/82/71/81/827181ef-7466-a5db-f257-977000f390e5/887516937231.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/the-victory-single/id630735886?uo=1&v0=9988">The Victory - Single</a></B><br>
+						<a href="https://itunes.apple.com/artist/lifepoint-worship/id583912712?uo=1&v0=9988">Lifepoint Worship</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						1</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$0.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Lifepoint Church</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>Lifepoint Worship</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/lifepoint-worship/id583912712?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Victory - Single</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/the-victory-single/id630735886?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$0.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1507.phobos.apple.com/us/r30/Music2/v4/82/71/81/827181ef-7466-a5db-f257-977000f390e5/887516937231.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a483.phobos.apple.com/us/r30/Music2/v4/82/71/81/827181ef-7466-a5db-f257-977000f390e5/887516937231.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a740.phobos.apple.com/us/r30/Music2/v4/82/71/81/827181ef-7466-a5db-f257-977000f390e5/887516937231.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Lifepoint Church</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>The Hymn Project - aprilemade</title>
+    <link>https://itunes.apple.com/album/the-hymn-project/id628477192?uo=1&amp;v0=9988</link>
+    <description>The Hymn Project by aprilemade</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/the-hymn-project/id628477192?uo=1&v0=9988"><img border="0" src="http://a5.phobos.apple.com/us/r30/Music/v4/9c/dd/a4/9cdda439-cf8f-e1bb-4f0b-889bab441a78/859709754109_cover.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/the-hymn-project/id628477192?uo=1&v0=9988">The Hymn Project</a></B><br>
+						<a href="https://itunes.apple.com/artist/aprilemade/id544471935?uo=1&v0=9988">aprilemade</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						8</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 aprilemade</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>aprilemade</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/aprilemade/id544471935?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>The Hymn Project</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/the-hymn-project/id628477192?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a692.phobos.apple.com/us/r30/Music/v4/9c/dd/a4/9cdda439-cf8f-e1bb-4f0b-889bab441a78/859709754109_cover.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a20.phobos.apple.com/us/r30/Music/v4/9c/dd/a4/9cdda439-cf8f-e1bb-4f0b-889bab441a78/859709754109_cover.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a5.phobos.apple.com/us/r30/Music/v4/9c/dd/a4/9cdda439-cf8f-e1bb-4f0b-889bab441a78/859709754109_cover.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 aprilemade</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>For the Sake of the World (Live) - Bethel Live</title>
+    <link>https://itunes.apple.com/album/for-the-sake-of-the-world-live/id567481950?uo=1&amp;v0=9988</link>
+    <description>For the Sake of the World (Live) by Bethel Live</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/for-the-sake-of-the-world-live/id567481950?uo=1&v0=9988"><img border="0" src="http://a1487.phobos.apple.com/us/r30/Music/v4/b2/46/c1/b246c17d-3c08-48a8-412c-ee92e09a3270/609788201465.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/for-the-sake-of-the-world-live/id567481950?uo=1&v0=9988">For the Sake of the World (Live)</a></B><br>
+						<a href="https://itunes.apple.com/artist/bethel-live/id336953798?uo=1&v0=9988">Bethel Live</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2012 Bethel Music</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>Bethel Live</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/bethel-live/id336953798?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>For the Sake of the World (Live)</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/for-the-sake-of-the-world-live/id567481950?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a1374.phobos.apple.com/us/r30/Music/v4/b2/46/c1/b246c17d-3c08-48a8-412c-ee92e09a3270/609788201465.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a350.phobos.apple.com/us/r30/Music/v4/b2/46/c1/b246c17d-3c08-48a8-412c-ee92e09a3270/609788201465.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a1487.phobos.apple.com/us/r30/Music/v4/b2/46/c1/b246c17d-3c08-48a8-412c-ee92e09a3270/609788201465.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2012 Bethel Music</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+<item>
+    <title>Made - Hawk Nelson</title>
+    <link>https://itunes.apple.com/album/made/id622804838?uo=1&amp;v0=9988</link>
+    <description>Made by Hawk Nelson</description>
+    <pubDate>Fri, 19 Apr 2013 02:51:53 -0700</pubDate>
+    <content:encoded><![CDATA[<TABLE BORDER=0 WIDTH="100%"><TR><TD><table border="0" width="100%" cellspacing="0" cellpadding="0">
+				<tr valign="top" align="left">
+					<td ALIGN=CENTER WIDTH=166 VALIGN=TOP><a href="https://itunes.apple.com/album/made/id622804838?uo=1&v0=9988"><img border="0" src="http://a904.phobos.apple.com/us/r1000/067/Music2/v4/4c/64/3d/4c643dfb-1b3d-b834-0941-eb91c1ed2972/886443868755.100x100-75.jpg" /></a></td>
+					<td width="10"><img alt="" width="10" height="1" src="https://s.mzstatic.com/images/spacer.gif" /></td>
+					<td width="95%"><B><a href="https://itunes.apple.com/album/made/id622804838?uo=1&v0=9988">Made</a></B><br>
+						<a href="https://itunes.apple.com/artist/hawk-nelson/id18248911?uo=1&v0=9988">Hawk Nelson</a><br><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Release Date:</B>
+						April 2, 2013<br>
+						</font><font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Total Songs:</B>
+						13</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Genre:</B>
+						<a href="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&v0=9988">Christian &amp; Gospel</a></font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Price:</B>
+						$9.99</font><br>
+						<font size="3" FACE="Helvetica,Arial,Geneva,Swiss,SunSans-Regular"><B>Copyright</B>
+						℗ 2013 Hawk Nelson / Nashburnham Inc.</font></td>
+				</tr>
+			</table></TD></TR>
+			</TABLE>
+]]></content:encoded>
+    <category domain="https://itunes.apple.com/genre/music-christian-gospel/id22?uo=1&amp;v0=9988">Christian &amp; Gospel</category>
+    <itms:artist>Hawk Nelson</itms:artist>
+    <itms:artistLink>https://itunes.apple.com/artist/hawk-nelson/id18248911?uo=1&amp;v0=9988</itms:artistLink>
+    <itms:album>Made</itms:album>
+    <itms:albumLink>https://itunes.apple.com/album/made/id622804838?uo=1&amp;v0=9988</itms:albumLink>
+    <itms:albumPrice>$9.99</itms:albumPrice>
+                
+                <itms:coverArt height="53" width="53">http://a727.phobos.apple.com/us/r1000/067/Music2/v4/4c/64/3d/4c643dfb-1b3d-b834-0941-eb91c1ed2972/886443868755.53x53-50.jpg</itms:coverArt>
+    <itms:coverArt height="60" width="60">http://a1703.phobos.apple.com/us/r1000/067/Music2/v4/4c/64/3d/4c643dfb-1b3d-b834-0941-eb91c1ed2972/886443868755.60x60-50.jpg</itms:coverArt>
+    <itms:coverArt height="100" width="100">http://a904.phobos.apple.com/us/r1000/067/Music2/v4/4c/64/3d/4c643dfb-1b3d-b834-0941-eb91c1ed2972/886443868755.100x100-75.jpg</itms:coverArt>
+    
+    
+    <itms:rights>&#8471; 2013 Hawk Nelson / Nashburnham Inc.</itms:rights>
+    
+        <itms:releasedate>April 2, 2013</itms:releasedate>
+    
+
+</item>
+
+	</channel>
+</rss>
