@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!-- Benjamin Swartz
+CIS 114 OL
+stock.html
+Assignment 8
+5-17-2013  -->       
+        <title>Ben Swartz | Stock Quoter</title>
+        <link type="text/css" rel="stylesheet" media="screen" href="jqtouch/jqtouch.css" />
+        <link type="text/css" rel="stylesheet" media="screen" href="themes/jqt/theme.css" />
+        <link type="text/css" rel="stylesheet" media="screen" href="css/stock.css" />
+        <script type="text/javascript" src="jqtouch/jquery.js"></script>
+        <script type="text/javascript" src="jqtouch/jqtouch.js"></script>
+        <script type="text/javascript" src="js/stock.js"></script>
+    </head>
+    <body>
+        <div id="home">
+            <div class="toolbar">
+                <h1>Stock Quoter</h1>
+            </div>
+            <form>
+                <ul class="rounded">
+                    <li><input type="text" placeholder="Stock Symbol" name="stockSymbol" id="stockSymbol" autocapitalize="off" autocorrect="off" autocomplete="off" /></li>
+                    <li><input id="createEntry" type="submit" class="submit" name="action" value="Search" /></li>
+                </ul>
+            </form>
+            <div id="stockQuote"></div>
+        </div>
+    </body>
+</html>
