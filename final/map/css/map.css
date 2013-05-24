@@ -1,0 +1,12 @@
+/*Benjamin Swartz
+CIS 114 OL
+map.css
+Final
+5-24-2013 */
+
+html { height: 100% }
+body { height: 100%; margin: 0; padding: 0 }
+#map-canvas { height: 600px; width: 700px; }
+#side_bar {
+	width 10%
+}
